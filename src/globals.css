@@ -1,0 +1,287 @@
+@import "tailwindcss";
+
+/* CSS Custom Properties - Renk Tanımları */
+:root {
+  /* Ana Renkler */
+  --color-primary: #000000;
+  --color-secondary: #ffffff;
+  --color-accent: #3b82f6; /* blue-500 */
+  
+  /* Arka Plan Renkleri */
+  --color-bg-primary: #ffffff;
+  --color-bg-secondary: #f9fafb; /* gray-50 */
+  --color-bg-tertiary: #f3f4f6; /* gray-100 */
+  --color-bg-quaternary: #e5e7eb; /* gray-200 */
+  --color-bg-dark: #111827; /* gray-900 */
+  --color-bg-black: #000000;
+  
+  /* Metin Renkleri */
+  --color-text-primary: #000000;
+  --color-text-secondary: #374151; /* gray-700 */
+  --color-text-tertiary: #6b7280; /* gray-500 */
+  --color-text-quaternary: #9ca3af; /* gray-400 */
+  --color-text-light: #d1d5db; /* gray-300 */
+  --color-text-white: #ffffff;
+  
+  /* Kenarlık Renkleri */
+  --color-border-primary: #e5e7eb; /* gray-200 */
+  --color-border-secondary: #d1d5db; /* gray-300 */
+  --color-border-dark: #374151; /* gray-700 */
+  
+  /* Gölge Renkleri */
+  --color-shadow-light: rgba(0, 0, 0, 0.1);
+  --color-shadow-medium: rgba(0, 0, 0, 0.2);
+  --color-shadow-dark: rgba(0, 0, 0, 0.5);
+  
+  /* Overlay Renkleri */
+  --color-overlay-light: rgba(0, 0, 0, 0.1);
+  --color-overlay-medium: rgba(0, 0, 0, 0.4);
+  --color-overlay-dark: rgba(0, 0, 0, 0.6);
+  
+  /* Hover Renkleri */
+  --color-hover-primary: #f3f4f6; /* gray-100 */
+  --color-hover-secondary: #e5e7eb; /* gray-200 */
+  --color-hover-tertiary: #d1d5db; /* gray-300 */
+  
+  /* Özel Renkler */
+  --color-blue-accent: #3b82f6; /* blue-500 */
+  --color-blue-light: #dbeafe; /* blue-100 */
+  --color-blue-dark: #1e40af; /* blue-700 */
+  --color-blue-social: #1da1f2; /* Twitter blue */
+  --color-blue-facebook: #1877f2; /* Facebook blue */
+  
+  /* Uyarı ve Durum Renkleri */
+  --color-red-accent: #ef4444; /* red-500 */
+  --color-red-light: #fef2f2; /* red-50 */
+  --color-red-dark: #dc2626; /* red-600 */
+  
+  /* Sosyal Medya Renkleri */
+  --color-pink-instagram: #e4405f; /* Instagram pink */
+  --color-pink-instagram-dark: #c13584; /* Instagram dark pink */
+  
+  /* Gradient Renkleri */
+  --color-gradient-start: #111827; /* gray-900 */
+  --color-gradient-end: #000000;
+  
+  /* Backdrop Blur */
+  --color-backdrop-light: rgba(255, 255, 255, 0.9);
+  --color-backdrop-dark: rgba(0, 0, 0, 0.9);
+  
+  /* Prose Renkleri */
+  --color-prose-heading: #000000;
+  --color-prose-text: #374151;
+  --color-prose-strong: #000000;
+  --color-prose-blockquote: #6b7280;
+  --color-prose-link: #3b82f6;
+  --color-prose-list: #374151;
+}
+
+/* Dark Mode Renk Tanımları */
+.dark {
+  /* Ana Renkler */
+  --color-primary: #ffffff;
+  --color-secondary: #000000;
+  --color-accent: #60a5fa; /* blue-400 */
+  
+  /* Arka Plan Renkleri */
+  --color-bg-primary: #111827; /* gray-900 */
+  --color-bg-secondary: #1f2937; /* gray-800 */
+  --color-bg-tertiary: #374151; /* gray-700 */
+  --color-bg-quaternary: #4b5563; /* gray-600 */
+  --color-bg-dark: #000000;
+  --color-bg-black: #ffffff;
+  
+  /* Metin Renkleri */
+  --color-text-primary: #ffffff;
+  --color-text-secondary: #d1d5db; /* gray-300 */
+  --color-text-tertiary: #9ca3af; /* gray-400 */
+  --color-text-quaternary: #6b7280; /* gray-500 */
+  --color-text-light: #374151; /* gray-700 */
+  --color-text-white: #000000;
+  
+  /* Kenarlık Renkleri */
+  --color-border-primary: #374151; /* gray-700 */
+  --color-border-secondary: #4b5563; /* gray-600 */
+  --color-border-dark: #d1d5db; /* gray-300 */
+  
+  /* Gölge Renkleri */
+  --color-shadow-light: rgba(255, 255, 255, 0.1);
+  --color-shadow-medium: rgba(255, 255, 255, 0.2);
+  --color-shadow-dark: rgba(255, 255, 255, 0.5);
+  
+  /* Overlay Renkleri */
+  --color-overlay-light: rgba(255, 255, 255, 0.1);
+  --color-overlay-medium: rgba(255, 255, 255, 0.4);
+  --color-overlay-dark: rgba(255, 255, 255, 0.6);
+  
+  /* Hover Renkleri */
+  --color-hover-primary: #374151; /* gray-700 */
+  --color-hover-secondary: #4b5563; /* gray-600 */
+  --color-hover-tertiary: #6b7280; /* gray-500 */
+  
+  /* Özel Renkler */
+  --color-blue-accent: #60a5fa; /* blue-400 */
+  --color-blue-light: #1e3a8a; /* blue-900 */
+  --color-blue-dark: #93c5fd; /* blue-300 */
+  --color-blue-social: #60a5fa; /* Twitter blue dark */
+  --color-blue-facebook: #60a5fa; /* Facebook blue dark */
+  
+  /* Uyarı ve Durum Renkleri */
+  --color-red-accent: #f87171; /* red-400 */
+  --color-red-light: #7f1d1d; /* red-900 */
+  --color-red-dark: #ef4444; /* red-500 */
+  
+  /* Sosyal Medya Renkleri */
+  --color-pink-instagram: #f472b6; /* Instagram pink dark */
+  --color-pink-instagram-dark: #ec4899; /* Instagram dark pink dark */
+  
+  /* Gradient Renkleri */
+  --color-gradient-start: #ffffff;
+  --color-gradient-end: #d1d5db; /* gray-300 */
+  
+  /* Backdrop Blur */
+  --color-backdrop-light: rgba(17, 24, 39, 0.9); /* gray-900 */
+  --color-backdrop-dark: rgba(255, 255, 255, 0.9);
+  
+  /* Prose Renkleri */
+  --color-prose-heading: #ffffff;
+  --color-prose-text: #d1d5db;
+  --color-prose-strong: #ffffff;
+  --color-prose-blockquote: #9ca3af;
+  --color-prose-link: #60a5fa;
+  --color-prose-list: #d1d5db;
+}
+
+/* Temel Stiller */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    background-color: var(--color-bg-primary);
+    color: var(--color-text-primary);
+  }
+  
+  /* Renk geçişleri */
+  * {
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+  }
+}
+
+/* Utility Classes */
+@layer utilities {
+  /* Arka Plan Renkleri */
+  .bg-custom-primary { background-color: var(--color-bg-primary); }
+  .bg-custom-secondary { background-color: var(--color-bg-secondary); }
+  .bg-custom-tertiary { background-color: var(--color-bg-tertiary); }
+  .bg-custom-quaternary { background-color: var(--color-bg-quaternary); }
+  
+  /* Metin Renkleri */
+  .text-custom-primary { color: var(--color-text-primary); }
+  .text-custom-secondary { color: var(--color-text-secondary); }
+  .text-custom-tertiary { color: var(--color-text-tertiary); }
+  .text-custom-quaternary { color: var(--color-text-quaternary); }
+  
+  /* Kenarlık Renkleri */
+  .border-custom-primary { border-color: var(--color-border-primary); }
+  .border-custom-secondary { border-color: var(--color-border-secondary); }
+  .border-custom-dark { border-color: var(--color-border-dark); }
+  
+  /* Hover Renkleri */
+  .hover\:bg-custom-primary:hover { background-color: var(--color-hover-primary); }
+  .hover\:bg-custom-secondary:hover { background-color: var(--color-hover-secondary); }
+  .hover\:bg-custom-tertiary:hover { background-color: var(--color-hover-tertiary); }
+  
+  .hover\:text-custom-primary:hover { color: var(--color-text-primary); }
+  .hover\:text-custom-secondary:hover { color: var(--color-text-secondary); }
+  
+  /* Özel Renkler */
+  .text-custom-red { color: var(--color-red-accent); }
+  .bg-custom-blue { background-color: var(--color-blue-accent); }
+  .text-custom-blue { color: var(--color-blue-accent); }
+  .bg-custom-pink { background-color: var(--color-pink-instagram); }
+  .text-custom-pink { color: var(--color-pink-instagram); }
+  
+  /* Özel Scrollbar Stilleri */
+  .scrollbar-hide {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;  /* Safari and Chrome */
+  }
+  
+  /* Özelleştirilmiş Scrollbar */
+  .scrollbar-custom {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-border-secondary) transparent;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-track {
+    background: transparent;
+    border-radius: 4px;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-thumb {
+    background: var(--color-border-secondary);
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-thumb:hover {
+    background: var(--color-text-tertiary);
+  }
+  
+  /* Yatay Scrollbar için özel stil */
+  .scrollbar-horizontal {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-border-secondary) transparent;
+  }
+  
+  .scrollbar-horizontal::-webkit-scrollbar {
+    height: 6px;
+    width: 6px;
+  }
+  
+  .scrollbar-horizontal::-webkit-scrollbar-track {
+    background: transparent;
+    border-radius: 3px;
+  }
+  
+  .scrollbar-horizontal::-webkit-scrollbar-thumb {
+    background: var(--color-border-secondary);
+    border-radius: 3px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .scrollbar-horizontal::-webkit-scrollbar-thumb:hover {
+    background: var(--color-text-tertiary);
+  }
+  
+  /* Mevcut scrollbar stilleri */
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-border-secondary) transparent;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: var(--color-border-secondary);
+    border-radius: 3px;
+  }
+}
