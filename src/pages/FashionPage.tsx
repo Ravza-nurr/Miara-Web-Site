@@ -2,14 +2,13 @@ import PageHeader from "@/components/PageHeader";
 import ArticleGrid from "@/components/ArticleGrid";
 import CategorySidebar from "@/components/CategorySidebar";
 import CategoryNews from "@/components/CategoryNews";
-import Newsletter from "@/components/Newsletter";
 import { fashionArticles } from "@/lib/data";
 
 export default function FashionPage() {
   return (
     <div className="min-h-screen bg-[var(--color-bg-primary)]">
       <PageHeader
-        title="Moda" 
+        title="Moda"
         description="En son moda trendleri, tasarımcı koleksiyonları ve stil önerileri. Gardırobunuzu yenileyin ve kişisel stilinizi keşfedin."
         backgroundImage="/images/Moda2.jpg"
       />
@@ -31,9 +30,11 @@ export default function FashionPage() {
           </div>
         </div>
       </div>
-      <CategoryNews category="Moda" title="Son Moda Haberleri" categorySlug="fashion" />
-
-      <Newsletter />
+      <CategoryNews
+        category="Moda"
+        title="Son Moda Haberleri"
+        categorySlug="fashion"
+      />
     </div>
   );
-} 
+}

@@ -1,16 +1,16 @@
 import { useParams, useSearchParams } from "react-router-dom";
 import ArticleDetail from "@/components/ArticleDetail";
-import Newsletter from "@/components/Newsletter";
 import { getNewsById } from "@/lib/data";
 
 export default function NewsDetailPage() {
   const { id } = useParams();
   const [searchParams] = useSearchParams();
-  
+
   const newsId = Number(id);
   const news = getNewsById(newsId);
   const categorySlug = searchParams.get("categorySlug") || "news";
-  const referrer = searchParams.get("referrer") as "home" | "category" || "category";
+  const referrer =
+    (searchParams.get("referrer") as "home" | "category") || "category";
 
   if (!news) {
     return (
@@ -29,12 +29,11 @@ export default function NewsDetailPage() {
 
   return (
     <div className="min-h-screen bg-[var(--color-bg-primary)]">
-      <ArticleDetail 
-        article={news} 
+      <ArticleDetail
+        article={news}
         categorySlug={categorySlug}
         referrer={referrer}
       />
-      <Newsletter />
     </div>
   );
-} 
+}

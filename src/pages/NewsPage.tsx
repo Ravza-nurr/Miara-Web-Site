@@ -1,5 +1,4 @@
 import ArticleGrid from "@/components/ArticleGrid";
-import Newsletter from "@/components/Newsletter";
 import { latestNews } from "@/lib/data";
 
 export default function NewsPage() {
@@ -14,8 +13,6 @@ export default function NewsPage() {
         </div>
         <ArticleGrid articles={latestNews} />
       </div>
-
-      <Newsletter />
     </div>
   );
 }

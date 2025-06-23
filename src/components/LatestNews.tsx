@@ -3,7 +3,7 @@
 import { Clock, ArrowRight, ChevronLeft, ChevronRight } from "lucide-react";
 import NewsCard from "./NewsCard";
 import { latestNews } from "@/lib/data";
-import { Link } from "react-router-dom";
+import Link from "next/link";
 import { useRef } from "react";
 
 export default function LatestNews() {
@@ -31,7 +31,7 @@ export default function LatestNews() {
             Haberler
           </h3>
           <Link
-            to="/news"
+            href="/news"
             className="flex items-center text-sm font-medium text-[var(--color-text-primary)] hover:text-[var(--color-text-tertiary)] transition-colors group"
           >
             Tümünü Gör

@@ -1,5 +1,4 @@
 import ArticleGrid from "@/components/ArticleGrid";
-import Newsletter from "@/components/Newsletter";
 import {
   featuredArticles,
   fashionArticles,
@@ -29,8 +28,6 @@ export default function AllArticlesPage() {
         </div>
         <ArticleGrid articles={allArticles} />
       </div>
-
-      <Newsletter />
     </div>
   );
 }

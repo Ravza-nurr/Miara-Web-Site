@@ -18,12 +18,24 @@ export default function FeaturedArticles() {
   const scrollContainerRef = useRef<HTMLDivElement>(null);
 
   // Tüm kategorilerden hot makaleleri birleştir
-  const allHotArticles = [
+  const allHotArticlesRaw = [
     ...featuredArticles.filter((article) => article.isHot),
     ...fashionArticles.filter((article) => article.isHot),
     ...beautyArticles.filter((article) => article.isHot),
     ...horoscopeArticles.filter((article) => article.isHot),
   ];
+
+  // id, kategori ve title'a göre benzersizleştir
+  const allHotArticles = allHotArticlesRaw.filter(
+    (article, index, self) =>
+      index ===
+      self.findIndex(
+        (a) =>
+          a.id === article.id &&
+          a.category === article.category &&
+          a.title === article.title
+      )
+  );
 
   // Tüm kategorilerden tüm makaleleri birleştir
   const allArticles = [
@@ -107,12 +119,15 @@ export default function FeaturedArticles() {
             className="flex overflow-x-hidden scroll-smooth"
           >
             {allHotArticles.map((article) => (
-              <div key={article.id} className="flex-shrink-0 w-full">
+              <div
+                key={`${article.category}-${article.id}-${article.title}`}
+                className="flex-shrink-0 w-full"
+              >
                 <div className="relative overflow-hidden rounded-lg">
                   <img
                     src={article.image}
                     alt={article.title}
-                    className="w-full h-64 md:h-120 object-cover"
+                    className="w-full h-64 md:h-145 object-cover"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-overlay-dark)] via-[var(--color-overlay-medium)] to-transparent" />
 

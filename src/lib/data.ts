@@ -503,12 +503,11 @@ export const latestNews = [
   },
   {
     id: 27,
-    title:
-      "Burçlara Göre Bahar Temizliği: Evde ve Ruhunuzda Yenilenmenin Sırları",
+    title: "Burçlara Göre Bahar Temizliği:Yenilenmenin Sırları",
     category: "Burçlar",
     image: "/images/Burçlara Göre Bahar Temizliği_ Kapak.jpg",
     excerpt:
-      "Her burcun kendine özgü bahar temizliği ritüelleri ve enerjileri nasıl yenilenir? Astrolojik önerilerle evinizi ve ruhunuzu arındırın.",
+      "Her burcun kendine özgü bahar temizliği ritüelleri ?",
     readTime: "6 dk okuma",
     views: "1.8k",
     author: "Melis Kaya",
@@ -563,6 +562,574 @@ export const latestNews = [
 
 <p>Sonuç olarak, bahar temizliği sadece evimizi düzenlemekten çok daha fazlasıdır; her burç için kendine has bir yenilenme ritüelidir. Bu süreç, hem fiziksel hem ruhsal olarak bizi hafifletir ve yeni başlangıçlara enerjik bir şekilde adım atmamızı sağlar. Burcunuzun enerjisiyle uyumlu bir şekilde bahar temizliği yapmak, hem yaşam alanınızı hem de iç dünyanızı tazelemenin en etkili yoludur.</p>
 `,
+  },
+  {
+    id: 42,
+    title: "2025 İlkbahar Moda Haftası: Sürdürülebilirlik ve Teknoloji Buluştu",
+    category: "Moda",
+    image: "/images/Moda4.jpg",
+    excerpt:
+      "Bu yılın moda haftasında sürdürülebilir tasarımlar ve dijital yenilikler ön plana çıktı.",
+    readTime: "8 dk okuma",
+    views: "4.2k",
+    isHot: true,
+    date: "18 Nisan 2025",
+    author: "Fatma Şen",
+    tags: ["moda haftası", "sürdürülebilirlik", "teknoloji", "trendler"],
+    content: `
+  <p>2025 İlkbahar Moda Haftası, moda dünyasında yeni bir dönemin başlangıcına işaret ediyor. Bu yılın en dikkat çekici özelliği, sürdürülebilir tasarımların ve teknolojik yeniliklerin ön plana çıkması oldu. Dünyanın önde gelen tasarımcıları, çevre dostu malzemeler kullanarak yaratıcı koleksiyonlar sundu.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sürdürülebilir Malzemelerin Yükselişi</h2>
+  <p>Bu yılın moda haftasında, organik pamuk, kenevir, bambu ve geri dönüştürülmüş malzemeler yoğun olarak kullanıldı. Tasarımcılar, geleneksel tekstil üretiminin çevreye verdiği zararı azaltmak için yenilikçi çözümler geliştirdi. Özellikle okyanus plastiklerinden üretilen kumaşlar ve bitkisel boyalar, sürdürülebilir modanın geleceğini şekillendiriyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Dijital Teknolojilerin Entegrasyonu</h2>
+  <p>Moda haftasında, artırılmış gerçeklik (AR) ve sanal gerçeklik (VR) teknolojileri kullanılarak benzersiz deneyimler yaratıldı. İzleyiciler, sanal defilelere katılarak koleksiyonları 360 derece deneyimleme fırsatı buldu. Ayrıca, 3D baskı teknolojisi ile üretilen aksesuarlar da dikkat çekti.</p>
+  <img src="/images/Paris Moda Haftası'ndan En İyi Anlar_Kapak.jpg" alt="Moda Haftası" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Çeşitlilik ve Kapsayıcılık</h2>
+  <p>Bu yılın moda haftasında, çeşitlilik ve kapsayıcılık konularına daha fazla önem verildi. Farklı yaş grupları, beden boyutları ve kültürel geçmişlere sahip modeller, podyumlarda yer aldı. Bu yaklaşım, moda endüstrisinin daha kapsayıcı hale geldiğini gösteriyor.</h2>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Yeni Trendler</h2>
+  <p>2025 ilkbahar koleksiyonlarında, oversized ceketler, renkli sneaker'lar, vintage aksesuarlar ve katmanlı kombinler öne çıktı. Ayrıca, grafik desenler, neon renkler ve sürdürülebilir denim ürünleri de trend olarak belirlendi.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>2025 İlkbahar Moda Haftası, moda endüstrisinin sürdürülebilirlik ve teknoloji odaklı dönüşümünü gösterdi. Bu değişim, hem çevreye duyarlı hem de yenilikçi bir moda anlayışının yükselişe geçtiğini işaret ediyor. Gelecekte, bu yaklaşımların daha da yaygınlaşması bekleniyor.</p>
+  `,
+  },
+  {
+    id: 43,
+    title: "Güzellik Endüstrisinde Devrim",
+    category: "Güzellik",
+    image: "/images/Güzellik2.jpg",
+    excerpt:
+      "Yapay zeka ve biyoteknoloji kişiye özel güzellik ürünleri üretiliyor.",
+    readTime: "9 dk okuma",
+    views: "3.8k",
+    isHot: false,
+    date: "18 Nisan 2025",
+    author: "Elif Çelik",
+    tags: ["güzellik", "kişiselleştirme", "yapay zeka", "biyoteknoloji"],
+    content: `
+  <p>Güzellik endüstrisi, son yıllarda büyük bir dönüşüm yaşıyor. Yapay zeka ve biyoteknoloji sayesinde, her kişinin cilt tipine, DNA'sına ve yaşam tarzına uygun özel ürünler üretiliyor. Bu gelişme, güzellik bakımında yeni bir çağın başladığını gösteriyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">DNA Tabanlı Güzellik Ürünleri</h2>
+  <p>Biyoteknoloji şirketleri, kişilerin DNA analizini yaparak, cilt yaşlanması, nem ihtiyacı ve hassasiyet gibi özellikleri belirliyor. Bu bilgiler ışığında, tamamen kişiye özel serumlar, kremler ve maskeler üretiliyor. Bu yaklaşım, geleneksel "herkese uygun" ürün anlayışını tamamen değiştiriyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Yapay Zeka Destekli Cilt Analizi</h2>
+  <p>Akıllı telefon uygulamaları ve ev cihazları, yapay zeka kullanarak cilt durumunu analiz ediyor. Bu cihazlar, nem oranı, yağ seviyesi, gözenek büyüklüğü ve kırışıklık derinliği gibi parametreleri ölçüyor. Elde edilen veriler, kişiselleştirilmiş bakım önerileri sunmak için kullanılıyor.</p>
+  <img src="/images/Güzellik2.jpg" alt="Kişiselleştirilmiş Güzellik" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">3D Baskı ile Üretilen Ürünler</h2>
+  <p>3D baskı teknolojisi, güzellik endüstrisinde de kullanılmaya başlandı. Bu teknoloji sayesinde, kişinin yüz hatlarına tam uyumlu maskeler, cilt tipine özel peeling ürünleri ve hatta kişiselleştirilmiş makyaj ürünleri üretiliyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sürdürülebilir ve Etik Üretim</h2>
+  <p>Kişiselleştirilmiş ürünler, sadece etkinlik açısından değil, aynı zamanda sürdürülebilirlik açısından da avantaj sağlıyor. İhtiyaç duyulmayan ürünlerin üretilmemesi, atık miktarını azaltıyor. Ayrıca, hayvan testlerine gerek kalmadan, insan hücreleri kullanılarak test yapılıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Geleceğe Bakış</h2>
+  <p>Uzmanlara göre, önümüzdeki yıllarda kişiselleştirilmiş güzellik ürünleri daha da yaygınlaşacak. Yapay zeka ve biyoteknoloji alanındaki gelişmeler, her kişiye özel güzellik bakımı sunmayı mümkün kılacak. Bu gelişme, hem etkinlik hem de sürdürülebilirlik açısından büyük fayda sağlayacak.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Güzellik endüstrisindeki bu dönüşüm, teknolojinin hayatımızın her alanına entegre olduğunu gösteriyor. Kişiselleştirilmiş ürünler, hem daha etkili sonuçlar sunuyor hem de çevreye duyarlı bir yaklaşım benimsiyor. Bu gelişme, güzellik bakımında yeni bir standart oluşturuyor.</p>
+  `,
+  },
+  {
+    id: 44,
+    title: "Vintage Moda Geri Dönüyor: Nostaljik Trendler 2025'te Öne Çıkıyor",
+    category: "Moda",
+    image: "/images/Vintage Aksesuarların Modern Yorumu.jpg",
+    excerpt:
+      "90'lar ve 2000'lerin moda trendleri yeniden popüler hale geliyor, vintage parçalar gardıropların vazgeçilmezi oluyor.",
+    readTime: "7 dk okuma",
+    views: "3.5k",
+    isHot: true,
+    date: "19 Nisan 2025",
+    author: "Deniz Aksoy",
+    tags: ["vintage", "nostalji", "90'lar", "retro"],
+    content: `
+  <p>Vintage moda, 2025 yılında büyük bir geri dönüş yaşıyor. 90'lar ve 2000'lerin ikonik parçaları, günümüz tasarımcıları tarafından modern yorumlarla yeniden hayat buluyor. Bu trend, sadece nostaljik bir akım değil, aynı zamanda sürdürülebilir moda anlayışının da bir parçası olarak öne çıkıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">90'ların İkonik Parçaları</h2>
+  <p>Oversized blazer ceketler, yüksek bel pantolonlar, crop top'lar ve platform ayakkabılar, 90'ların en popüler parçaları olarak geri döndü. Bu parçalar, günümüz tasarımcıları tarafından daha modern kesimler ve renklerle yeniden yorumlanıyor. Özellikle grunge tarzı, minimalizm ve streetwear ile birleştirilerek yeni bir kimlik kazanıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Vintage Aksesuarların Yükselişi</h2>
+  <p>Vintage aksesuarlar da bu dönüşümün önemli bir parçası. Büyük küpeler, zincir kemerler, fanny pack'ler ve retro güneş gözlükleri, günümüz kombinlerinde sıkça kullanılıyor. Bu aksesuarlar, hem nostaljik bir hava katıyor hem de kişisel tarzı öne çıkarıyor.</p>
+  <img src="/images/Vintage Aksesuarların Geri Dönüşü_Kapak.jpg" alt="Vintage Moda" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sürdürülebilirlik Açısından Önemi</h2>
+  <p>Vintage moda, sürdürülebilirlik açısından da büyük önem taşıyor. İkinci el kıyafetler, yeni üretim ihtiyacını azaltarak çevreye katkı sağlıyor. Ayrıca, vintage parçalar genellikle daha kaliteli malzemelerden üretilmiş ve daha uzun ömürlü oluyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Vintage Alışveriş Rehberi</h2>
+  <p>Vintage alışveriş yaparken, parçaların durumunu kontrol etmek, orijinal etiketleri aramak ve kaliteli malzemeleri tercih etmek önemli. Ayrıca, vintage parçaları modern kıyafetlerle kombinlemek, hem nostaljik hem de çağdaş bir görünüm yaratıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Vintage moda, 2025'te hem nostaljik hem de sürdürülebilir bir seçenek olarak öne çıkıyor. Bu trend, geçmişin güzelliklerini geleceğe taşıyarak, moda dünyasında yeni bir denge yaratıyor.</p>
+  `,
+  },
+  {
+    id: 45,
+    title: "Sokak Modası: Şehrin Yaratıcı Ruhu Podyumlara İlham Veriyor",
+    category: "Moda",
+    image: "/images/Moda5.jpg",
+    excerpt:
+      "Sokak modası, tasarımcıların en büyük ilham kaynağı haline geliyor, gerçek yaşamın stili podyumlara yansıyor.",
+    readTime: "8 dk okuma",
+    views: "2.9k",
+    isHot: false,
+    date: "19 Nisan 2025",
+    author: "Selin Kaya",
+    tags: ["sokak modası", "yaratıcılık", "şehir", "ilham"],
+    content: `
+  <p>Sokak modası, son yıllarda moda endüstrisinin en önemli ilham kaynaklarından biri haline geldi. Şehirlerin sokaklarında, gerçek insanların yarattığı benzersiz kombinler, profesyonel tasarımcıların koleksiyonlarına yön veriyor. Bu durum, modanın demokratikleşmesini ve daha kapsayıcı hale gelmesini sağlıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sokak Modasının Gücü</h2>
+  <p>Sokak modası, podyumların ötesinde, gerçek yaşamın içinden çıkan yaratıcılığı temsil ediyor. Bu moda anlayışı, kültürel çeşitliliği, bireyselliği ve özgürlüğü ön plana çıkarıyor. Özellikle genç tasarımcılar, sokak modasından aldıkları ilhamla yenilikçi koleksiyonlar oluşturuyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sosyal Medyanın Etkisi</h2>
+  <p>Instagram, TikTok ve diğer sosyal medya platformları, sokak modasının yayılmasında büyük rol oynuyor. Sokak fotoğrafçıları ve moda blogları, günlük kombinleri dünyaya yayıyor. Bu sayede, farklı kültürlerden gelen stil anlayışları birbirini etkiliyor.</p>
+  <img src="/images/Sokak Modası_ Şehrin Nabzı_Kapak.jpg" alt="Sokak Modası" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sürdürülebilir Sokak Modası</h2>
+  <p>Sokak modası, sürdürülebilirlik konusunda da öncü rol oynuyor. İkinci el kıyafetler, vintage parçalar ve DIY (kendin yap) projeleri, sokak modasının önemli parçaları. Bu yaklaşım, hem çevreye duyarlı hem de ekonomik bir moda anlayışı sunuyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Sokak modası, moda endüstrisinin demokratikleşmesini sağlayan güçlü bir hareket. Bu trend, gerçek yaşamın yaratıcılığını podyumlara taşıyarak, modanın daha kapsayıcı ve çeşitli hale gelmesine katkı sağlıyor.</p>
+  `,
+  },
+  {
+    id: 46,
+    title: "Doğal Güzellik Ürünleri: Organik Kozmetik Pazarı Büyüyor",
+    category: "Güzellik",
+    image: "/images/Doğal_Güzelliğin_Sanatı.jpg",
+    excerpt:
+      "Organik ve doğal içerikli kozmetik ürünlerine olan talep artıyor.",
+    readTime: "8 dk okuma",
+    views: "3.2k",
+    isHot: true,
+    date: "19 Nisan 2025",
+    author: "Buse Yıldırım",
+    tags: ["organik", "doğal", "kozmetik", "sürdürülebilir"],
+    content: `
+  <p>Doğal güzellik ürünleri pazarı, son yıllarda büyük bir büyüme yaşıyor. Tüketiciler, kimyasal içerikli ürünlerden uzaklaşarak, organik ve doğal içerikli kozmetik ürünlerini tercih ediyor. Bu trend, hem sağlık bilincinin artması hem de çevre duyarlılığının yükselmesi ile paralel olarak gelişiyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Organik Kozmetik Pazarının Büyümesi</h2>
+  <p>Araştırmalar, organik kozmetik pazarının 2025 yılında %15 büyüme göstereceğini öngörüyor. Bu büyüme, özellikle genç tüketiciler arasında daha belirgin. 18-35 yaş arası tüketiciler, ürünlerin içeriğini daha dikkatli inceliyor ve doğal alternatifleri tercih ediyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Doğal İçeriklerin Önemi</h2>
+  <p>Aloe vera, hindistan cevizi yağı, shea butter, jojoba yağı gibi doğal içerikler, kozmetik ürünlerinde yoğun olarak kullanılıyor. Bu içerikler, hem cilt dostu hem de çevreye duyarlı. Ayrıca, bitkisel özler ve esansiyel yağlar da popülerlik kazanıyor.</p>
+  <img src="/images/Doğal Güzelliğin Sanatı_Kapak.jpg" alt="Doğal Güzellik" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sertifikasyon ve Şeffaflık</h2>
+  <p>Tüketiciler, ürünlerin gerçekten organik olduğundan emin olmak için sertifikasyon arıyor. USDA Organic, Ecocert, COSMOS gibi sertifikalar, ürünlerin kalitesini garanti ediyor. Ayrıca, markaların şeffaf olması ve içerik listelerini açıkça paylaşması da önem kazanıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Geleceğe Bakış</h2>
+  <p>Uzmanlara göre, doğal güzellik ürünleri pazarı önümüzdeki yıllarda daha da büyüyecek. Teknoloji ve bilimsel araştırmalar, doğal içeriklerin etkinliğini artırıyor. Bu gelişme, hem tüketiciler hem de çevre için faydalı sonuçlar doğuruyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Doğal güzellik ürünleri, sadece bir trend değil, kalıcı bir yaşam tarzı haline geliyor. Bu yaklaşım, hem kişisel sağlığı hem de çevre sağlığını koruyarak, sürdürülebilir bir güzellik anlayışı sunuyor.</p>
+  `,
+  },
+  {
+    id: 47,
+    title: "Makyaj Trendleri 2025: Minimalizm ve Yaratıcılık Buluşuyor",
+    category: "Güzellik",
+    image: "/images/Güzellik6.jpg",
+    excerpt:
+      "2025 yılının makyaj trendleri minimalizm ve yaratıcılığı bir araya getiriyor.",
+    readTime: "9 dk okuma",
+    views: "2.8k",
+    isHot: false,
+    date: "19 Nisan 2025",
+    author: "Gizem Özkan",
+    tags: ["makyaj", "trendler", "minimalizm", "yaratıcılık"],
+    content: `
+  <p>2025 yılı makyaj trendleri, minimalizm ve yaratıcılığı mükemmel bir şekilde birleştiriyor. Tüketiciler, hem doğal görünüm hem de kişisel ifade arıyor. Bu yılın en öne çıkan trendleri, "skinimalism" (cilt minimalizmi) ve "graphic makeup" (grafik makyaj) olarak belirlendi.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Skinimalism: Cildin Doğal Güzelliği</h2>
+  <p>Skinimalism trendi, cildin doğal güzelliğini ön plana çıkarmayı hedefliyor. Bu yaklaşımda, ağır fondötenler yerine hafif BB kremler, kapatıcılar yerine aydınlatıcılar tercih ediliyor. Amaç, cildin kendi ışıltısını korumak ve doğal bir görünüm elde etmek.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Grafik Makyaj: Yaratıcı İfade</h2>
+  <p>Grafik makyaj, minimalizmin tam tersi bir yaklaşım sunuyor. Geometrik şekiller, keskin çizgiler ve cesur renkler kullanılarak yaratıcı makyaj tasarımları oluşturuluyor. Bu trend, özellikle sosyal medyada büyük ilgi görüyor.</p>
+  <img src="/images/2025 Makyaj Trendleri_Kapak.jpg" alt="Makyaj Trendleri" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Renk Paletleri</h2>
+  <p>2025'te, pastel tonlar ve neon renkler bir arada kullanılıyor. Özellikle lavanta, mercan ve turkuaz tonları popüler. Ayrıca, metallik efektler ve holografik ürünler de trend olarak öne çıkıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sürdürülebilir Makyaj</h2>
+  <p>Makyaj ürünlerinde de sürdürülebilirlik önem kazanıyor. Geri dönüştürülebilir ambalajlar, vegan formüller ve doğal içerikler tercih ediliyor. Bu yaklaşım, hem çevreye duyarlı hem de cilt dostu bir makyaj deneyimi sunuyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>2025 makyaj trendleri, hem minimalizm hem de yaratıcılığı kucaklıyor. Bu yaklaşım, herkesin kendi tarzını özgürce ifade edebilmesine olanak tanıyor. Gelecekte, bu trendlerin daha da çeşitlenmesi bekleniyor.</p>
+  `,
+  },
+  {
+    id: 48,
+    title: "Şehirlerde Yeşil Dönüşüm Başlıyor",
+    category: "Yaşam",
+    image: "/images/Sürdürülebilir Yaşam Rehberi.jpg",
+    excerpt:
+      "Büyük şehirlerde sürdürülebilir yaşam projeleri hayata geçiriliyor.",
+    readTime: "10 dk okuma",
+    views: "3.1k",
+    isHot: true,
+    date: "19 Nisan 2025",
+    author: "Mert Karaca",
+    tags: ["sürdürülebilir yaşam", "şehir", "yeşil", "çevre"],
+    content: `
+  <p>Büyük şehirlerde sürdürülebilir yaşam projeleri hızla yayılıyor. Belediyeler, çevre dostu uygulamaları hayata geçirerek, şehirlerin daha yaşanabilir hale gelmesini sağlıyor. Bu dönüşüm, hem çevre sağlığını koruyor hem de yaşam kalitesini artırıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Yeşil Alan Projeleri</h2>
+  <p>Şehirlerde yeşil alanların artırılması, sürdürülebilir yaşamın en önemli adımlarından biri. Parklar, bahçeler ve yeşil koridorlar, hem hava kalitesini iyileştiriyor hem de şehir sakinlerine dinlenme alanları sunuyor. Ayrıca, çatı bahçeleri ve dikey bahçeler de popülerlik kazanıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Toplu Taşıma ve Bisiklet Yolları</h2>
+  <p>Sürdürülebilir ulaşım, şehir yaşamının önemli bir parçası. Toplu taşıma sistemlerinin geliştirilmesi, bisiklet yollarının artırılması ve elektrikli araçların yaygınlaştırılması, karbon emisyonlarını azaltıyor. Bu uygulamalar, hem çevreye hem de ekonomik açıdan fayda sağlıyor.</p>
+  <img src="/images/Sürdürülebilir Yaşam Rehberi_Kapak.jpg" alt="Sürdürülebilir Yaşam" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Enerji Verimliliği</h2>
+  <p>Şehirlerde enerji verimliliği projeleri de hızla yayılıyor. Güneş panelleri, LED aydınlatma sistemleri ve akıllı bina teknolojileri, enerji tüketimini azaltıyor. Bu gelişmeler, hem maliyetleri düşürüyor hem de çevreye katkı sağlıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Topluluk Bahçeleri</h2>
+  <p>Topluluk bahçeleri, şehir sakinlerinin doğayla bağ kurmasını sağlıyor. Bu bahçeler, hem taze sebze ve meyve üretimi sağlıyor hem de sosyal etkileşimi artırıyor. Ayrıca, çocukların doğayı öğrenmesi için de önemli bir fırsat sunuyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Sürdürülebilir şehir projeleri, geleceğin yaşam tarzını şekillendiriyor. Bu dönüşüm, hem çevre sağlığını koruyor hem de yaşam kalitesini artırıyor. Gelecekte, bu projelerin daha da yaygınlaşması bekleniyor.</p>
+  `,
+  },
+  {
+    id: 49,
+    title: "Dijital Detoks Hareketi: Teknolojiden Uzaklaşma Trendi",
+    category: "Yaşam",
+    image: "/images/Dijital Detoks_ Teknolojiden Arınma.jpg",
+    excerpt:
+      "Sürekli ekran başında kalmaktan bunalan insanlar.",
+    readTime: "8 dk okuma",
+    views: "2.6k",
+    isHot: false,
+    date: "19 Nisan 2025",
+    author: "Can Yılmaz",
+    tags: ["dijital detoks", "teknoloji", "farkındalık", "sağlık"],
+    content: `
+  <p>Dijital detoks hareketi, son yıllarda büyük bir popülerlik kazandı. Sürekli ekran başında kalmaktan bunalan insanlar, teknolojiden uzaklaşmak için çeşitli yöntemler arıyor. Bu trend, hem kişisel sağlığı korumak hem de gerçek hayatla bağ kurmak için önemli bir fırsat sunuyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Dijital Detoks Kampları</h2>
+  <p>Dijital detoks kampları, teknolojiden tamamen uzaklaşmak isteyenler için ideal bir seçenek. Bu kamplarda, katılımcılar telefon, tablet ve bilgisayarlarını teslim ediyor ve doğayla iç içe bir yaşam sürüyor. Meditasyon, yoga, doğa yürüyüşleri gibi aktivitelerle zihinsel ve bedensel rahatlama sağlanıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Teknolojinin Olumsuz Etkileri</h2>
+  <p>Araştırmalar, sürekli ekran başında kalmanın göz yorgunluğu, uyku problemleri, dikkat dağınıklığı ve sosyal izolasyon gibi sorunlara yol açtığını gösteriyor. Dijital detoks, bu olumsuz etkileri minimize etmek için etkili bir yöntem.</p>
+  <img src="/images/Dijital Detoks_ Teknolojiden Arınma_Kapak.jpg" alt="Dijital Detoks" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Alternatif Aktivite Önerileri</h2>
+  <p>Dijital detoks sırasında, kitap okuma, el sanatları, spor yapma ve yüz yüze sosyal etkileşimler öneriliyor. Bu aktiviteler, hem zihinsel gelişimi destekliyor hem de gerçek hayatla bağ kurmayı sağlıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Dijital detoks hareketi, modern yaşamın teknoloji bağımlılığından kurtulmak için güçlü bir araç. Bu trend, hem kişisel sağlığı koruyor hem de daha anlamlı bir yaşam sürmeyi sağlıyor. Gelecekte, bu hareketin daha da yaygınlaşması bekleniyor.</p>
+  `,
+  },
+  {
+    id: 50,
+    title: "Astroloji ve Bilim: Burçların Etkisini İnceliyor",
+    category: "Burçlar",
+    image: "/images/Burçlar5.jpg",
+    excerpt:
+      "Bilim insanları, burçların kişilik üzerindeki etkisini araştırıyor.",
+    readTime: "9 dk okuma",
+    views: "2.3k",
+    isHot: true,
+    date: "19 Nisan 2025",
+    author: "Zeynep Arslan",
+    tags: ["astroloji", "bilim", "araştırma", "kişilik"],
+    content: `
+  <p>Astroloji ve bilim arasındaki ilişki, son yıllarda araştırmacıların ilgisini çekiyor. Bilim insanları, burçların kişilik özellikleri ve davranışlar üzerindeki etkisini incelemek için çeşitli çalışmalar yapıyor. Bu araştırmalar, hem astrolojiye olan ilgiyi artırıyor hem de bilimsel yaklaşımla konuyu ele alıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Yeni Araştırma Bulguları</h2>
+  <p>Son yapılan araştırmalar, belirli burçların belirli kişilik özellikleri gösterme eğiliminde olduğunu ortaya koyuyor. Örneğin, ateş burçlarının daha enerjik ve lider ruhlu olduğu, su burçlarının ise daha duygusal ve sezgisel olduğu gözlemleniyor. Bu bulgular, astrolojinin bilimsel temellerini araştırmak için yeni kapılar açıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Psikoloji ve Astroloji</h2>
+  <p>Psikologlar, astrolojik özelliklerin psikolojik profillerle karşılaştırılması konusunda çalışmalar yapıyor. Bu araştırmalar, kişilik testleri ve astrolojik analizlerin birleştirilmesiyle yapılıyor. Sonuçlar, hem bilimsel hem de astrolojik açıdan ilginç bulgular sunuyor.</p>
+  <img src="/images/Burçlar.jpg" alt="Astroloji Araştırması" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Gelecekteki Araştırmalar</h2>
+  <p>Uzmanlar, astroloji ve bilim arasındaki ilişkinin daha derinlemesine incelenmesi gerektiğini belirtiyor. Önümüzdeki yıllarda, daha kapsamlı araştırmalar yapılması ve astrolojinin bilimsel temellerinin güçlendirilmesi planlanıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Astroloji ve bilim arasındaki ilişki, hem araştırmacılar hem de toplum için ilginç bir konu. Bu araştırmalar, astrolojinin bilimsel temellerini güçlendirerek, konuya daha objektif bir yaklaşım sağlıyor.</p>
+  `,
+  },
+  {
+    id: 51,
+    title: "Burç Uyumluluğu: İlişkilerde Astroloji",
+    category: "Burçlar",
+    image: "/images/Burçlar6.jpg",
+    excerpt:
+      "İlişkilerinde burç uyumluluğuna daha fazla önem veriyor.",
+    readTime: "8 dk okuma",
+    views: "2.1k",
+    isHot: false,
+    date: "19 Nisan 2025",
+    author: "Selin Yıldız",
+    tags: ["burç uyumluluğu", "ilişkiler", "astroloji", "danışmanlık"],
+    content: `
+  <p>Burç uyumluluğu, son yıllarda ilişkilerde daha fazla önem kazanıyor. Çiftler, partnerlerinin burç özelliklerini öğrenerek, ilişkilerini daha iyi anlamaya çalışıyor. Bu trend, astrolojik danışmanlık hizmetlerinin de popülerleşmesini sağlıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Astrolojik Danışmanlık Hizmetleri</h2>
+  <p>Astrolojik danışmanlar, çiftlere burç uyumluluğu konusunda rehberlik ediyor. Bu danışmanlar, doğum haritalarını analiz ederek, çiftlerin uyumlu ve uyumsuz yönlerini belirliyor. Bu bilgiler, ilişkilerde daha iyi iletişim kurmak için kullanılıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Burç Uyumluluğunun Önemi</h2>
+  <p>Burç uyumluluğu, sadece romantik ilişkilerde değil, arkadaşlık ve iş ilişkilerinde de önem taşıyor. Farklı burçların özelliklerini anlamak, daha sağlıklı ve uyumlu ilişkiler kurmayı sağlıyor.</p>
+  <img src="/images/Burçlar3.jpg" alt="Burç Uyumluluğu" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Gelecekteki Trendler</h2>
+  <p>Uzmanlara göre, burç uyumluluğu konusundaki ilgi önümüzdeki yıllarda daha da artacak. Astrolojik danışmanlık hizmetleri, daha profesyonel ve bilimsel temellere dayalı hale gelecek.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Burç uyumluluğu, ilişkilerde daha iyi anlayış ve iletişim kurmak için önemli bir araç. Bu yaklaşım, hem kişisel hem de profesyonel ilişkilerde fayda sağlıyor.</p>
+  `,
+  },
+  {
+    id: 52,
+    title:
+      "Moda Endüstrisinde Yapay Zeka: Kişiselleştirilmiş Stil Danışmanlığı",
+    category: "Moda",
+    image: "/images/Moda.jpg",
+    excerpt:
+      "Yapay zeka teknolojisi, kişiselleştirilmiş stil danışmanlığı hizmetleri sunuyor, moda alışverişi değişiyor.",
+    readTime: "8 dk okuma",
+    views: "3.4k",
+    isHot: true,
+    date: "20 Nisan 2025",
+    author: "Elif Demir",
+    tags: ["yapay zeka", "kişiselleştirme", "stil danışmanlığı", "teknoloji"],
+    content: `
+  <p>Moda endüstrisi, yapay zeka teknolojisini kullanarak kişiselleştirilmiş stil danışmanlığı hizmetleri sunmaya başladı. Bu teknoloji, kullanıcıların vücut tipini, renk tercihlerini ve yaşam tarzını analiz ederek, en uygun kıyafet önerilerini sunuyor. Bu gelişme, moda alışverişini daha kolay ve etkili hale getiriyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Yapay Zeka Destekli Stil Analizi</h2>
+  <p>Yapay zeka algoritmaları, kullanıcıların fotoğraflarını analiz ederek vücut tipini, ten rengini ve yüz şeklini belirliyor. Bu bilgiler ışığında, en uygun kıyafet stilleri, renkler ve aksesuarlar öneriliyor. Ayrıca, kullanıcının geçmiş alışveriş geçmişi de analiz edilerek, kişisel tarzına uygun öneriler sunuluyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sanal Deneme Odaları</h2>
+  <p>Artırılmış gerçeklik (AR) teknolojisi kullanılarak, kullanıcılar kıyafetleri sanal olarak deneyebiliyor. Bu teknoloji, fiziksel mağazalara gitmeden kıyafetlerin nasıl göründüğünü görmeyi mümkün kılıyor. Ayrıca, farklı kombinasyonları denemek için de ideal bir çözüm sunuyor.</p>
+  <img src="/images/Moda.jpg" alt="Yapay Zeka Moda" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Kişiselleştirilmiş Alışveriş Deneyimi</h2>
+  <p>Yapay zeka, kullanıcıların alışveriş deneyimini kişiselleştiriyor. Önerilen ürünler, kullanıcının bütçesine, tarzına ve ihtiyaçlarına göre seçiliyor. Bu yaklaşım, hem zaman tasarrufu sağlıyor hem de daha memnun edici alışveriş deneyimi sunuyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Geleceğe Bakış</h2>
+  <p>Uzmanlara göre, yapay zeka destekli moda hizmetleri önümüzdeki yıllarda daha da yaygınlaşacak. Bu teknoloji, hem online hem de offline alışveriş deneyimini iyileştirerek, moda endüstrisinde yeni bir dönem başlatıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Yapay zeka teknolojisi, moda endüstrisinde kişiselleştirilmiş hizmetler sunarak, kullanıcı deneyimini iyileştiriyor. Bu gelişme, hem tüketiciler hem de markalar için faydalı sonuçlar doğuruyor.</p>
+  `,
+  },
+  {
+    id: 53,
+    title: "Sürdürülebilir Denim: Çevre Dostu Kot Üretimi Yaygınlaşıyor",
+    category: "Moda",
+    image: "/images/Sürdürülebilir Moda_ Yeni Standart_Kapak.jpg",
+    excerpt:
+      "Denim üretiminde çevre dostu yöntemler kullanılıyor, su tasarrufu ve geri dönüşüm öne çıkıyor.",
+    readTime: "7 dk okuma",
+    views: "2.8k",
+    isHot: false,
+    date: "20 Nisan 2025",
+    author: "Selin Kaya",
+    tags: ["denim", "sürdürülebilir", "çevre", "geri dönüşüm"],
+    content: `
+  <p>Denim üretimi, geleneksel olarak çevreye zarar veren bir süreç olarak biliniyordu. Ancak son yıllarda, sürdürülebilir denim üretimi yaygınlaşmaya başladı. Bu yaklaşım, hem su tasarrufu sağlıyor hem de geri dönüştürülmüş malzemeler kullanıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Su Tasarrufu Teknolojileri</h2>
+  <p>Geleneksel denim üretiminde, bir kot pantolon için yaklaşık 7.000 litre su kullanılıyor. Sürdürülebilir üretim yöntemleri, bu miktarı %90'a kadar azaltabiliyor. Lazer teknolojisi ve ozon yıkama gibi yöntemler, su kullanımını minimize ediyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Geri Dönüştürülmüş Malzemeler</h2>
+  <p>Sürdürülebilir denim üretiminde, geri dönüştürülmüş pamuk ve polyester kullanılıyor. Bu malzemeler, hem çevreye duyarlı hem de kaliteli ürünler üretmeyi mümkün kılıyor. Ayrıca, eski kot pantolonlar da yeniden işlenerek yeni ürünlere dönüştürülüyor.</p>
+  <img src="/images/Sürdürülebilir Moda_ Yeni Standart_Kapak.jpg" alt="Sürdürülebilir Denim" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Doğal Boyama Yöntemleri</h2>
+  <p>Geleneksel indigo boyama yerine, doğal boyama yöntemleri kullanılıyor. Bu yöntemler, hem çevreye zarar vermiyor hem de benzersiz renkler elde etmeyi sağlıyor. Bitkisel boyalar ve organik indigo, sürdürülebilir denim üretiminin önemli parçaları.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Sürdürülebilir denim üretimi, moda endüstrisinin çevreye duyarlı hale gelmesinde önemli bir adım. Bu yaklaşım, hem kaliteli ürünler sunuyor hem de doğayı koruyor.</p>
+  `,
+  },
+  {
+    id: 54,
+    title: "Cilt Bakımında Probiotik Devrimi: Mikrobiyom Dostu Ürünler",
+    category: "Güzellik",
+    image: "/images/Doğal_Cilt_Bakımı.jpg",
+    excerpt:
+      "Cilt mikrobiyomunu destekleyen probiotik içerikli ürünler popülerleşiyor, cilt sağlığında yeni dönem.",
+    readTime: "9 dk okuma",
+    views: "3.6k",
+    isHot: true,
+    date: "20 Nisan 2025",
+    author: "Ayşe Yılmaz",
+    tags: ["probiotik", "mikrobiyom", "cilt bakımı", "sağlık"],
+    content: `
+  <p>Cilt bakımında probiotik devrimi başlıyor. Cilt mikrobiyomunu destekleyen ürünler, son yıllarda büyük popülerlik kazandı. Bu ürünler, cildin doğal savunma mekanizmalarını güçlendirerek, daha sağlıklı ve parlak bir görünüm sağlıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Cilt Mikrobiyomu Nedir?</h2>
+  <p>Cilt mikrobiyomu, cildin yüzeyinde yaşayan milyarlarca bakteri, mantar ve virüsten oluşur. Bu mikroorganizmalar, cildin sağlığını korumak ve dış etkenlere karşı savunma yapmak için önemli rol oynar. Mikrobiyom dengesi bozulduğunda, akne, egzama ve diğer cilt problemleri ortaya çıkabilir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Probiotik Ürünlerin Faydaları</h2>
+  <p>Probiotik içerikli cilt bakım ürünleri, cildin doğal mikrobiyomunu destekler. Bu ürünler, zararlı bakterilerin çoğalmasını engellerken, faydalı bakterilerin büyümesini destekler. Ayrıca, cilt bariyerini güçlendirir ve nem dengesini korur.</p>
+  <img src="/images/Doğal_Cilt_Bakımı.jpg" alt="Probiotik Cilt Bakımı" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Prebiotik ve Postbiotik İçerikler</h2>
+  <p>Probiotik ürünlerin yanı sıra, prebiotik ve postbiotik içerikler de önem kazanıyor. Prebiotikler, faydalı bakterilerin beslenmesini sağlarken, postbiotikler bu bakterilerin ürettiği faydalı maddelerdir. Bu üçlü kombinasyon, cilt sağlığını optimize eder.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Geleceğe Bakış</h2>
+  <p>Uzmanlara göre, probiotik cilt bakımı önümüzdeki yıllarda daha da yaygınlaşacak. Bu yaklaşım, hem bilimsel temellere dayalı hem de doğal bir cilt bakım yöntemi sunuyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Probiotik cilt bakımı, cilt sağlığında yeni bir dönem başlatıyor. Bu yaklaşım, hem doğal hem de etkili bir cilt bakım yöntemi sunarak, geleceğin güzellik standartlarını belirliyor.</p>
+  `,
+  },
+  {
+    id: 55,
+    title: "'No Makeup' Trendi Yükseliyor",
+    category: "Güzellik",
+    image: "/images/Güzellik7.jpg",
+    excerpt:
+      "Doğal görünüm öne çıkıyor, 'no makeup' trendi yaygınlaşıyor.",
+    readTime: "8 dk okuma",
+    views: "2.9k",
+    isHot: false,
+    date: "20 Nisan 2025",
+    author: "Gizem Özkan",
+    tags: ["minimal makyaj", "doğal görünüm", "no makeup", "trend"],
+    content: `
+  <p>'No makeup' trendi, son yıllarda makyaj dünyasında büyük popülerlik kazandı. Bu trend, doğal görünümü ön plana çıkararak, minimal makyaj teknikleri kullanmayı öneriyor. Amaç, makyaj yapılmış gibi görünmeden, cildin doğal güzelliğini vurgulamak.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Minimal Makyaj Teknikleri</h2>
+  <p>Minimal makyaj için, hafif BB kremler, şeffaf pudralar ve doğal renkli rujlar tercih ediliyor. Ayrıca, kaşları şekillendirmek ve kirpikleri hafifçe kıvırmak da önemli. Bu teknikler, doğal bir görünüm elde etmeyi sağlıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Cilt Bakımının Önemi</h2>
+  <p>'No makeup' trendinde, cilt bakımı büyük önem taşıyor. Düzenli nemlendirme, güneş koruyucu kullanımı ve peeling, doğal bir görünüm için vazgeçilmez. Sağlıklı bir cilt, minimal makyajın en iyi şekilde görünmesini sağlar.</p>
+  <img src="/images/Güzellik3.jpg" alt="Minimal Makyaj" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sosyal Medyanın Etkisi</h2>
+  <p>Sosyal medya, 'no makeup' trendinin yayılmasında büyük rol oynuyor. Influencer'lar ve ünlüler, doğal görünümlerini paylaşarak bu trendi destekliyor. Bu yaklaşım, gerçek güzelliği kutlamayı ve kendini olduğu gibi kabul etmeyi teşvik ediyor.</h2>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>'No makeup' trendi, doğal güzelliği kutlayan ve minimal makyajı öne çıkaran bir yaklaşım. Bu trend, hem pratik hem de sağlıklı bir makyaj anlayışı sunuyor.</p>
+  `,
+  },
+  {
+    id: 56,
+    title: "Şehir Bahçeciliği: Balkonlarda Tarım Yapılıyor",
+    category: "Yaşam",
+    image: "/images/Yaşam.jpg",
+    excerpt:
+      "Şehir sakinleri, balkonlarında ve teraslarında sebze yetiştiriyor.",
+    readTime: "9 dk okuma",
+    views: "3.0k",
+    isHot: true,
+    date: "20 Nisan 2025",
+    author: "Mert Karaca",
+    tags: ["şehir bahçeciliği", "balkon tarımı", "sürdürülebilir", "doğa"],
+    content: `
+  <p>Şehir bahçeciliği, son yıllarda büyük şehirlerde popülerlik kazandı. Şehir sakinleri, balkonlarında, teraslarında ve hatta pencere önlerinde sebze ve meyve yetiştiriyor. Bu trend, hem taze gıda üretimi sağlıyor hem de şehir hayatında doğayla bağ kurmayı mümkün kılıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Balkon Bahçeciliği Teknikleri</h2>
+  <p>Balkon bahçeciliği için, saksılar, dikey bahçe sistemleri ve hidroponik yöntemler kullanılıyor. Domates, biber, maydanoz, fesleğen gibi sebzeler, balkonlarda kolayca yetiştirilebiliyor. Ayrıca, çilek ve küçük meyve ağaçları da tercih ediliyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sürdürülebilir Yaşam</h2>
+  <p>Şehir bahçeciliği, sürdürülebilir yaşamın önemli bir parçası. Kendi gıdasını üretmek, hem ekonomik açıdan faydalı hem de çevreye duyarlı. Ayrıca, organik üretim yaparak sağlıklı gıda tüketimi de mümkün oluyor.</p>
+  <img src="/images/Kültür_Yaşam3.jpg" alt="Şehir Bahçeciliği" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Topluluk Bahçeleri</h2>
+  <p>Şehirlerde topluluk bahçeleri de yaygınlaşıyor. Bu bahçeler, şehir sakinlerinin bir araya gelerek tarım yapmasını sağlıyor. Ayrıca, sosyal etkileşimi artırıyor ve topluluk ruhunu güçlendiriyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Şehir bahçeciliği, şehir hayatında doğayla bağ kurmanın en etkili yollarından biri. Bu trend, hem sürdürülebilir yaşamı destekliyor hem de sağlıklı gıda üretimi sağlıyor.</p>
+  `,
+  },
+  {
+    id: 57,
+    title: "Uzaktan Çalışma ile Seyahat Edenler Artıyor",
+    category: "Yaşam",
+    image: "/images/Yaşam2.jpg",
+    excerpt:
+      "Uzaktan çalışanlar, dünyayı gezerek yaşamaya başladı.",
+    readTime: "10 dk okuma",
+    views: "2.7k",
+    isHot: false,
+    date: "20 Nisan 2025",
+    author: "Can Yılmaz",
+    tags: ["dijital nomad", "uzaktan çalışma", "seyahat", "teknoloji"],
+    content: `
+  <p>Dijital nomadlık, son yıllarda büyük popülerlik kazandı. Teknoloji sayesinde uzaktan çalışabilen kişiler, dünyayı gezerek yaşamaya başladı. Bu yaşam tarzı, hem özgürlük hem de macera arayanlar için ideal bir seçenek sunuyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Dijital Nomadlığın Avantajları</h2>
+  <p>Dijital nomadlık, coğrafi özgürlük, kültürel deneyim ve kişisel gelişim fırsatları sunuyor. Farklı ülkelerde yaşamak, yeni kültürler tanımak ve farklı perspektifler geliştirmek mümkün. Ayrıca, iş-yaşam dengesi de daha esnek hale geliyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Teknolojik Altyapı</h2>
+  <p>Dijital nomadlık için güvenilir internet bağlantısı, laptop ve gerekli yazılımlar önemli. Ayrıca, uzaktan çalışma platformları ve iletişim araçları da vazgeçilmez. Bu teknolojik altyapı, dünyanın her yerinden çalışmayı mümkün kılıyor.</p>
+  <img src="/images/Kültür_Yaşam2.jpg" alt="Dijital Nomadlık" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Zorluklar ve Çözümler</h2>
+  <p>Dijital nomadlık, bazı zorlukları da beraberinde getiriyor. Vize sorunları, sağlık sigortası ve sosyal güvenlik gibi konular dikkatli planlama gerektiriyor. Ancak, bu zorluklar doğru hazırlıkla aşılabiliyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Dijital nomadlık, modern yaşamın sunduğu yeni fırsatlardan biri. Bu yaşam tarzı, hem özgürlük hem de deneyim arayanlar için ideal bir seçenek sunuyor.</p>
+  `,
+  },
+  {
+    id: 58,
+    title: "Ay Düğümleri: Karmik Yolculuğun Anahtarları",
+    category: "Burçlar",
+    image: "/images/Burçlar7.jpg",
+    excerpt:
+      "Ay düğümleri, ruhsal gelişim ve karmik dersler hakkında önemli bilgiler veriyor.",
+    readTime: "9 dk okuma",
+    views: "2.4k",
+    isHot: true,
+    date: "20 Nisan 2025",
+    author: "Zeynep Arslan",
+    tags: ["ay düğümleri", "karma", "ruhsal gelişim", "astroloji"],
+    content: `
+  <p>Ay düğümleri, astrolojide ruhsal gelişim ve karmik dersler hakkında önemli bilgiler veren noktalardır. Kuzey ay düğümü, bu hayatta ilerlememiz gereken yönü gösterirken, güney ay düğümü geçmişten getirdiğimiz alışkanlıkları temsil eder. Bu konu, son yıllarda astroloji dünyasında büyük ilgi görüyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Kuzey Ay Düğümü: Geleceğe Yönelim</h2>
+  <p>Kuzey ay düğümü, ruhsal gelişim yolculuğumuzda ilerlememiz gereken yönü gösterir. Bu nokta, bu hayatta öğrenmemiz gereken dersleri ve geliştirmemiz gereken özellikleri temsil eder. Kuzey ay düğümünün bulunduğu burç ve ev, yaşam amacımızı anlamamıza yardımcı olur.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Güney Ay Düğümü: Geçmişten Gelen</h2>
+  <p>Güney ay düğümü, geçmiş yaşamlardan getirdiğimiz alışkanlıkları ve konfor alanlarını temsil eder. Bu nokta, bırakmamız gereken eski kalıpları ve aşmamız gereken zorlukları gösterir. Güney ay düğümünü anlamak, kişisel dönüşüm için önemlidir.</p>
+  <img src="/images/Burçlar3_2.jpg" alt="Ay Düğümleri" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Ay Düğümlerinin Yorumlanması</h2>
+  <p>Ay düğümlerini yorumlarken, bulundukları burç ve ev pozisyonları önemlidir. Ayrıca, diğer gezegenlerle olan açıları da dikkate alınmalıdır. Bu analiz, kişinin ruhsal yolculuğunu anlamak için değerli bilgiler sunar.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Ay düğümleri, astrolojide ruhsal gelişim ve karmik dersler hakkında önemli bilgiler verir. Bu konuyu anlamak, kişisel dönüşüm ve ruhsal ilerleme için değerli bir rehberlik sağlar.</p>
+  `,
+  },
+  {
+    id: 59,
+    title: "Burçlar ve Meslek : Astrolojik Kariyer",
+    category: "Burçlar",
+    image: "/images/Burçlar8.jpg",
+    excerpt:
+      "Burçların meslek uyumluluğu araştırılıyor.",
+    readTime: "8 dk okuma",
+    views: "2.2k",
+    isHot: false,
+    date: "20 Nisan 2025",
+    author: "Selin Yıldız",
+    tags: ["burçlar", "meslek", "kariyer", "astroloji"],
+    content: `
+  <p>Burçların doğal yetenekleri ve meslek uyumluluğu, son yıllarda büyük ilgi görüyor. Astrolojik kariyer danışmanlığı, kişilerin doğuştan gelen özelliklerini anlayarak, en uygun meslek seçimini yapmalarına yardımcı oluyor. Bu yaklaşım, hem kişisel tatmin hem de başarı için önemli bir rehberlik sağlıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Burçlara Göre Meslek Uyumluluğu</h2>
+  <p>Her burç, belirli meslek alanlarında doğal yetenekler gösterir. Örneğin, Koç burcu liderlik ve girişimcilik alanlarında başarılı olurken, Yengeç burcu bakım ve koruma gerektiren işlerde öne çıkar. Bu özellikler, meslek seçiminde önemli ipuçları sunar.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Doğum Haritası Analizi</h2>
+  <p>Astrolojik kariyer danışmanlığında, sadece güneş burcu değil, tüm doğum haritası analiz edilir. Merkür, Mars ve Satürn gibi gezegenlerin pozisyonları, mesleki yetenekleri ve kariyer yolunu gösterir. Bu detaylı analiz, daha doğru rehberlik sağlar.</p>
+  <img src="/images/Burçlar2.png" alt="Astrolojik Kariyer" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Gelecekteki Trendler</h2>
+  <p>Uzmanlara göre, astrolojik kariyer danışmanlığı önümüzdeki yıllarda daha da yaygınlaşacak. Bu yaklaşım, hem kişisel gelişim hem de mesleki başarı için değerli bir araç sunuyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Burçlar ve meslek uyumluluğu, kariyer seçiminde önemli bir rehberlik sağlıyor. Bu yaklaşım, hem kişisel tatmin hem de profesyonel başarı için değerli bilgiler sunuyor.</p>
+  `,
   },
 ];
 
@@ -847,6 +1414,109 @@ export const fashionArticles = [
 <p>Sokak modası; şehir hayatının, bireysel ifadenin ve kültürel çeşitliliğin birleştiği bir sanattır. Bu stilin güzelliği; kuralsız, yaratıcı ve özgür oluşudur. Eğer kendi tarzını cesurca ortaya koymak istiyorsan, sokak modası sana bunun için en uygun zemini sunar. Unutma: Şehir senin podyumun olabilir, yeter ki kendin olmayı seç!</p>
 `,
   },
+
+  {
+    id: 30,
+    title: "Geleceğin Modası: Dijital Tasarımlar ve Sanal Gardıroplar",
+    category: "Moda",
+    image: "/images/Paris Moda Haftası'ndan En İyi Anlar2.jpg",
+    excerpt:
+      "Moda endüstrisinin dijitalleşme yolculuğu, sanal kıyafetler ve NFT koleksiyonları ile yeni bir çağ başlatıyor.",
+    readTime: "12 dk okuma",
+    views: "2.9k",
+    isHot: true,
+    date: "16 Nisan 2025",
+    author: "Deniz Aksoy",
+    tags: ["dijital moda", "NFT", "sanal gardırop", "teknoloji"],
+    content: `
+  <p>Moda dünyası, son yıllarda dijitalleşmenin etkisiyle köklü bir dönüşüm yaşıyor. Artık sadece fiziksel kıyafetler değil, sanal ortamda giyilebilen dijital tasarımlar da trend belirleyici hale geldi. Özellikle pandemi sonrası hızlanan bu değişim, hem tasarımcıların hem de tüketicilerin moda ile kurduğu ilişkiyi yeniden tanımlıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Dijital Moda Nedir?</h2>
+  <p>Dijital moda, bilgisayar ortamında tasarlanan ve yalnızca sanal dünyada var olan kıyafetleri ifade eder. Bu kıyafetler, sosyal medya paylaşımlarında, oyun karakterlerinde veya metaverse platformlarında kullanılabiliyor. Fiziksel olarak üretilmedikleri için çevreye olan etkileri minimuma iniyor ve sürdürülebilirlik açısından önemli bir avantaj sunuyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">NFT Koleksiyonları ve Moda</h2>
+  <p>Son dönemde moda markaları, NFT (Non-Fungible Token) teknolojisini kullanarak dijital koleksiyonlar oluşturuyor. Bu koleksiyonlar, sınırlı sayıda üretilen ve blokzincir üzerinde doğrulanan sanal kıyafetlerden oluşuyor. Kullanıcılar, bu dijital ürünleri satın alıp sanal avatarlarına giydirebiliyor veya koleksiyonlarını yatırım aracı olarak saklayabiliyor.</p>
+  <img src="/images/Paris Moda Haftası'ndan En İyi Anlar2.jpg" alt="Dijital Moda" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sanal Defileler ve Moda Haftaları</h2>
+  <p>Geleneksel moda haftaları, pandemiyle birlikte sanal ortama taşındı. Artık tasarımcılar, koleksiyonlarını 3D animasyonlar, artırılmış gerçeklik (AR) ve sanal gerçeklik (VR) teknolojileriyle sunuyor. Bu sayede, dünyanın dört bir yanından izleyiciler defilelere katılabiliyor ve koleksiyonları anında deneyimleyebiliyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sanal Gardıroplar ve Kişiselleştirme</h2>
+  <p>Dijital moda, kişiselleştirme olanaklarını da artırıyor. Kullanıcılar, sanal gardıroplarında istedikleri kadar kıyafet bulundurabiliyor, avatarlarının tarzını diledikleri gibi değiştirebiliyor. Moda markaları ise, müşterilerine özel dijital ürünler sunarak sadakat ve etkileşimi artırıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sürdürülebilirlik ve Dijitalleşme</h2>
+  <p>Fiziksel üretimin azalması, tekstil atıklarının ve karbon ayak izinin düşmesini sağlıyor. Dijital moda, sürdürülebilirlik hedeflerine ulaşmak isteyen markalar için büyük bir fırsat sunuyor. Ayrıca, hızlı moda akımının olumsuz etkilerini azaltmak için de önemli bir araç haline geliyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Geleceğe Bakış</h2>
+  <p>Uzmanlara göre, önümüzdeki yıllarda dijital moda ve sanal gardıroplar, fiziksel moda ile entegre şekilde hayatımızda yer alacak. Moda endüstrisi, teknolojinin sunduğu olanaklarla daha yaratıcı, erişilebilir ve sürdürülebilir bir yapıya kavuşacak. Sanal kıyafetler, sadece bir trend değil, geleceğin vazgeçilmez bir parçası olacak.</p>
+  
+  <p>Sonuç olarak, dijitalleşen moda dünyası, hem tasarımcılara hem de kullanıcılara sınırsız bir yaratıcılık ve özgürlük alanı sunuyor. Sanal gardıroplar, NFT koleksiyonları ve dijital defileler, modanın geleceğini bugünden şekillendiriyor.</p>
+  `,
+  },
+  {
+    id: 34,
+    title: "Sürdürülebilir Moda: Çevre Dostu Stil Rehberi",
+    category: "Moda",
+    image: "/images/Moda3.jpg",
+    excerpt:
+      "Moda endüstrisinin çevreye etkisini azaltmak için sürdürülebilir seçenekler ve bilinçli tüketim.",
+    readTime: "11 dk okuma",
+    views: "3.2k",
+    isHot: true,
+    date: "17 Nisan 2025",
+    author: "Elif Demir",
+    tags: ["sürdürülebilir moda", "çevre", "bilinçli tüketim", "etik moda"],
+    content: `
+  <p>Sürdürülebilir moda, son yıllarda moda endüstrisinin en önemli gündem maddelerinden biri haline geldi. Hızlı modanın çevreye verdiği zararın farkına varan tüketiciler ve markalar, daha sorumlu bir yaklaşım benimsemeye başladı. Sürdürülebilir moda, sadece çevre dostu malzemeler kullanmak değil, aynı zamanda etik üretim süreçleri, adil çalışma koşulları ve uzun ömürlü tasarımlar anlamına geliyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sürdürülebilir Modanın Temel İlkeleri</h2>
+  <p>Sürdürülebilir moda, üç temel ilkeye dayanır: azalt, yeniden kullan ve geri dönüştür. Bu yaklaşım, gereksiz tüketimi azaltmayı, mevcut kıyafetleri yeniden değerlendirmeyi ve atık malzemeleri yeni ürünlere dönüştürmeyi hedefler. Ayrıca, organik pamuk, kenevir, bambu gibi doğal liflerin kullanımı da sürdürülebilir modanın önemli bir parçasıdır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Bilinçli Tüketim ve Gardırop Yönetimi</h2>
+  <p>Sürdürülebilir moda, bilinçli tüketim alışkanlıkları geliştirmeyi gerektirir. Öncelikle, gerçekten ihtiyaç duyduğumuz parçaları satın almak, kaliteli ve uzun ömürlü ürünleri tercih etmek önemlidir. Ayrıca, mevcut gardırobu yeniden değerlendirmek, kıyafetleri farklı kombinasyonlarla giymek ve gerekirse yeniden tasarlamak da sürdürülebilir bir yaklaşımdır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">İkinci El ve Vintage Moda</h2>
+  <p>İkinci el ve vintage kıyafetler, sürdürülebilir modanın en popüler seçeneklerinden biridir. Bu ürünler, hem çevreye zarar vermez hem de benzersiz ve kişisel bir tarz yaratmanıza olanak tanır. Ayrıca, vintage parçalar genellikle daha kaliteli malzemelerden üretilmiş ve daha uzun ömürlüdür.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sürdürülebilir Moda Markaları</h2>
+  <p>Günümüzde birçok marka, sürdürülebilir moda konusunda öncü rol oynuyor. Bu markalar, organik malzemeler kullanıyor, etik üretim süreçleri benimsiyor ve şeffaf bir yaklaşım sergiliyor. Tüketiciler, bu markaları tercih ederek hem çevreye katkı sağlıyor hem de kaliteli ürünler elde ediyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Sürdürülebilir moda, geleceğin moda anlayışını şekillendiriyor. Bilinçli tüketim, etik üretim ve çevre dostu seçimler, hem bireysel hem de toplumsal açıdan büyük önem taşıyor. Sürdürülebilir modayı benimseyerek, hem kendi tarzınızı yaratabilir hem de dünyaya katkı sağlayabilirsiniz.</p>
+  `,
+  },
+  {
+    id: 35,
+    title: "Moda Psikolojisi: Kıyafetlerin Ruh Halimize Etkisi",
+    category: "Moda",
+    image: "/images/Moda6.jpg",
+    excerpt:
+      "Giyim tercihlerimizin psikolojik etkileri ve kıyafetlerin özgüven üzerindeki gücü.",
+    readTime: "10 dk okuma",
+    views: "2.8k",
+    isHot: false,
+    date: "17 Nisan 2025",
+    author: "Selin Kaya",
+    tags: ["moda psikolojisi", "özgüven", "ruh hali", "kişisel tarz"],
+    content: `
+  <p>Moda, sadece dış görünüşle ilgili değildir; aynı zamanda psikolojimizi de derinden etkiler. Giyim tercihlerimiz, ruh halimizi, özgüvenimizi ve hatta performansımızı etkileyebilir. Moda psikolojisi, kıyafetlerin bilişsel ve duygusal süreçlerimiz üzerindeki etkisini inceleyen bir alandır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Kıyafetlerin Psikolojik Etkisi</h2>
+  <p>Araştırmalar, giydiğimiz kıyafetlerin bilişsel performansımızı etkilediğini gösteriyor. Örneğin, resmi kıyafetler giyen kişiler, daha soyut düşünme yeteneği gösterirken, rahat kıyafetler giyenler daha yaratıcı olabiliyor. Bu durum, "enclothed cognition" olarak adlandırılan bir psikolojik fenomenle açıklanıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Renklerin Psikolojik Anlamı</h2>
+  <p>Kıyafetlerde kullanılan renkler, hem kendimizi hem de çevremizdeki insanları etkiler. Kırmızı, güç ve tutkuyu temsil ederken, mavi güven ve sakinliği çağrıştırır. Siyah, sofistike ve güçlü bir görünüm sağlarken, beyaz temizlik ve saflığı simgeler. Renk tercihlerimiz, o günkü ruh halimizi ve hedeflerimizi yansıtır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Özgüven ve Kıyafet İlişkisi</h2>
+  <p>Kendimizi iyi hissettiğimiz kıyafetler, özgüvenimizi artırır ve daha pozitif bir ruh hali yaratır. Bu durum, "power posing" olarak bilinen duruş ve giyim tarzının, hormon seviyelerimizi etkilediğini gösteren araştırmalarla da destekleniyor. Doğru kıyafet seçimi, hem içsel hem de dışsal güveni artırır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Kişisel Tarz ve Kimlik</h2>
+  <p>Giyim tarzımız, kimliğimizin önemli bir parçasıdır ve bizi diğerlerinden ayıran benzersiz özelliklerimizi yansıtır. Kişisel tarz, sadece moda trendlerini takip etmek değil, kendi değerlerimizi ve kişiliğimizi kıyafetlerle ifade etmektir. Bu sayede, hem kendimizi daha iyi tanır hem de çevremizdeki insanlara mesaj veririz.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Moda psikolojisi, kıyafetlerin sadece estetik değil, aynı zamanda psikolojik bir güce sahip olduğunu gösteriyor. Doğru kıyafet seçimi, özgüvenimizi artırır, ruh halimizi iyileştirir ve performansımızı etkiler. Bu nedenle, kıyafet seçerken sadece moda trendlerini değil, kendi psikolojik ihtiyaçlarımızı da göz önünde bulundurmak önemlidir.</p>
+  `,
+  },
 ];
 
 export const beautyArticles = [
@@ -1103,6 +1773,109 @@ export const beautyArticles = [
   <p>Bilimsel gelişmelerle desteklenen yeni nesil ürünler ve profesyonel uygulamalar, yaşlanma karşıtı bakımın etkinliğini artırıyor. Kişiye özel ve bütüncül yaklaşımlar, herkesin kendi cilt yapısına uygun en iyi sonuçları almasını sağlıyor.</p>
   <p>Unutulmamalıdır ki, yaşlanmak doğal bir süreçtir; önemli olan bunu sağlıklı ve kendimizi iyi hissederek yaşamak. Anti-aging bakımla birlikte, hem dış görünüş hem de özgüven güçlenir.</p>
 `,
+  },
+  {
+    id: 31,
+    title: "Holistik Güzellik: Zihin, Beden ve Ruhun Uyumu",
+    category: "Güzellik",
+    image: "/images/Doğal_Güzelliğin_Sanatı.jpg",
+    excerpt:
+      "Güzellik anlayışında yeni bir çağ: Holistik yaklaşımla içten dışa ışıldayan bir cilt ve sağlıklı yaşam.",
+    readTime: "13 dk okuma",
+    views: "4.1k",
+    isHot: true,
+    date: "16 Nisan 2025",
+    author: "Buse Yıldırım",
+    tags: ["holistik güzellik", "sağlık", "cilt bakımı", "yaşam tarzı"],
+    content: `
+  <p>Güzellik kavramı, son yıllarda yalnızca dış görünüşle sınırlı kalmıyor; zihin, beden ve ruhun bütünsel uyumunu da kapsıyor. Holistik güzellik yaklaşımı, sağlıklı bir cilt ve parlak bir görünüm için yaşam tarzı, beslenme, stres yönetimi ve duygusal dengeyi bir arada ele alıyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Holistik Güzellik Nedir?</h2>
+  <p>Holistik güzellik, cilt bakımının ötesine geçerek, kişinin genel sağlığını ve yaşam kalitesini artırmayı hedefler. Bu yaklaşımda, ciltteki sorunların yalnızca kozmetik ürünlerle değil, aynı zamanda beslenme, uyku düzeni, egzersiz ve ruhsal dengeyle de ilişkili olduğu kabul edilir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Beslenmenin Cilt Üzerindeki Etkisi</h2>
+  <p>Antioksidanlar, vitaminler ve mineraller açısından zengin bir beslenme düzeni, cildin yenilenmesini ve parlaklığını destekler. Özellikle C vitamini, E vitamini, omega-3 yağ asitleri ve çinko, cilt sağlığı için vazgeçilmezdir. Su tüketimi ise, cildin nem dengesini koruyarak elastikiyetini artırır.</p>
+  <img src="/images/Doğal_Güzelliğin_Sanatı.jpg" alt="Holistik Güzellik" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Stres Yönetimi ve Uyku</h2>
+  <p>Stres, ciltte akne, kızarıklık ve erken yaşlanma gibi sorunlara yol açabilir. Meditasyon, yoga ve nefes egzersizleri, hem zihinsel hem de fiziksel rahatlama sağlar. Kaliteli uyku ise, cildin gece boyunca kendini yenilemesine olanak tanır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Doğal ve Temiz İçerikli Ürünler</h2>
+  <p>Holistik güzellikte, kimyasal içeriklerden uzak, doğal ve organik ürünler tercih edilir. Bitkisel yağlar, çiçek suları ve probiyotik içerikler, cilt bariyerini güçlendirir ve hassasiyeti azaltır. Ayrıca, cilt tipine uygun ürün seçimi de büyük önem taşır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Ruhsal Dengenin Önemi</h2>
+  <p>Mutluluk, huzur ve öz sevgi, güzelliğin en önemli kaynaklarıdır. Olumlu düşünceler, ciltte de olumlu etkiler yaratır. Günlük şükran pratikleri, doğada vakit geçirmek ve sevdiklerinizle kaliteli zaman geçirmek, ruhsal dengeyi destekler.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Kişisel Bakım Rutinleri</h2>
+  <p>Holistik güzellikte, kişisel bakım rutinleri kişiye özel olarak planlanır. Haftalık maske uygulamaları, düzenli masajlar ve aromaterapi, cildin ve ruhun yenilenmesine yardımcı olur. Ayrıca, düzenli egzersiz ve açık havada yürüyüşler, kan dolaşımını artırarak cilde canlılık kazandırır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Holistik güzellik, içten dışa ışıldayan bir görünüm için bütünsel bir yaklaşım sunar. Sağlıklı beslenme, stres yönetimi, doğal ürünler ve ruhsal denge, güzelliğin kalıcı ve sürdürülebilir olmasını sağlar. Unutmayın, gerçek güzellik; kendinizi iyi hissettiğinizde başlar ve çevrenize de yansır.</p>
+  `,
+  },
+  {
+    id: 36,
+    title: "Cilt Bariyeri: Sağlıklı Cildin Temel Taşı",
+    category: "Güzellik",
+    image: "/images/Güzellik4.jpg",
+    excerpt:
+      "Cilt bariyerinin önemi, korunması ve güçlendirilmesi için etkili yöntemler.",
+    readTime: "12 dk okuma",
+    views: "3.5k",
+    isHot: true,
+    date: "17 Nisan 2025",
+    author: "Ayşe Yılmaz",
+    tags: ["cilt bariyeri", "cilt sağlığı", "nemlendirme", "koruma"],
+    content: `
+  <p>Cilt bariyeri, cildimizin en dış katmanını oluşturan ve dış etkenlere karşı koruma sağlayan karmaşık bir yapıdır. Bu bariyer, su kaybını önler, zararlı mikroorganizmaları engeller ve cildin pH dengesini korur. Sağlıklı bir cilt bariyeri, parlak, nemli ve problemlerden uzak bir cilt için vazgeçilmezdir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Cilt Bariyerinin Yapısı ve İşlevi</h2>
+  <p>Cilt bariyeri, stratum corneum adı verilen en dış katmandan oluşur. Bu katman, ölü cilt hücreleri, lipidler ve doğal nemlendirici faktörlerden meydana gelir. Bariyer, bir tuğla-duvar yapısına benzer; hücreler tuğlaları, lipidler ise duvarı oluşturan harç görevi görür. Bu yapı, cildin nemini korur ve dış etkenlere karşı direnç sağlar.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Bariyer Hasarının Belirtileri</h2>
+  <p>Zayıflamış bir cilt bariyeri, çeşitli belirtilerle kendini gösterir. Kuruluk, pullanma, kızarıklık, hassasiyet ve akne gibi sorunlar, bariyer hasarının işaretleri olabilir. Ayrıca, cilt bariyeri zayıfladığında, alerjik reaksiyonlar ve enfeksiyonlar daha sık görülür.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Bariyeri Güçlendiren İçerikler</h2>
+  <p>Cilt bariyerini güçlendirmek için seramidler, kolesterol, yağ asitleri ve hyaluronik asit gibi içerikler önemlidir. Seramidler, bariyerin yapı taşlarını oluştururken, hyaluronik asit nemlendirme sağlar. Ayrıca, panthenol ve aloe vera gibi yatıştırıcı içerikler de bariyer onarımını destekler.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Bariyer Dostu Bakım Rutini</h2>
+  <p>Sağlıklı bir cilt bariyeri için, nazik temizleyiciler kullanmak, aşırı eksfoliasyondan kaçınmak ve düzenli nemlendirme yapmak önemlidir. Ayrıca, güneş koruyucu kullanımı ve stres yönetimi de bariyer sağlığını destekler. Haftalık maske uygulamaları ve serum kullanımı, bariyer onarımını hızlandırır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Cilt bariyeri, sağlıklı ve güzel bir cilt için temel taştır. Doğru bakım rutini ve uygun ürün seçimi ile bariyeri güçlendirebilir, cildinizin doğal savunma mekanizmalarını destekleyebilirsiniz. Unutmayın, güçlü bir bariyer, parlak ve problemlerden uzak bir cildin anahtarıdır.</p>
+  `,
+  },
+  {
+    id: 37,
+    title: "Makyaj Sanatı: Yüz Hatlarını Vurgulama Teknikleri",
+    category: "Güzellik",
+    image: "/images/Güzellik5.jpg",
+    excerpt:
+      "Profesyonel makyaj teknikleriyle yüz hatlarını vurgulama ve doğal güzelliği ön plana çıkarma.",
+    readTime: "11 dk okuma",
+    views: "2.9k",
+    isHot: false,
+    date: "17 Nisan 2025",
+    author: "Gizem Özkan",
+    tags: ["makyaj", "yüz hatları", "kontur", "vurgulama"],
+    content: `
+  <p>Makyaj, yüz hatlarını vurgulayarak doğal güzelliği ön plana çıkaran bir sanattır. Doğru teknikler ve ürün seçimi ile her yüz tipinde mükemmel sonuçlar elde edilebilir. Profesyonel makyaj teknikleri, sadece güzelliği artırmak değil, aynı zamanda özgüveni de yükseltir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Yüz Tipine Göre Makyaj Teknikleri</h2>
+  <p>Her yüz tipi, farklı makyaj teknikleri gerektirir. Oval yüzler için yumuşak konturlar, yuvarlak yüzler için köşeli vurgular, kare yüzler için yumuşatıcı teknikler önerilir. Yüz tipini belirlemek, doğru makyaj uygulamasının ilk adımıdır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Kontur ve Highlight Teknikleri</h2>
+  <p>Kontur, yüz hatlarını belirginleştirmek için kullanılan en önemli tekniklerden biridir. Doğru kontur uygulaması ile yüz daha ince ve şekilli görünür. Highlight ise, yüzün belirli bölgelerini aydınlatarak hacim yaratır. Bu iki teknik birlikte kullanıldığında, yüz daha üç boyutlu ve çekici görünür.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Göz Makyajında Vurgulama</h2>
+  <p>Göz makyajında, göz şekline uygun teknikler kullanmak önemlidir. Küçük gözler için açık renkler ve parlak vurgular, büyük gözler için daha koyu tonlar tercih edilir. Eyeliner ve maskara kullanımı da göz şeklini vurgulamada etkilidir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Dudak Makyajında Şekillendirme</h2>
+  <p>Dudak makyajında, dudak kalemi ile şekil vermek ve ruj ile hacim yaratmak önemlidir. İnce dudaklar için açık renkler ve parlak finish, kalın dudaklar için daha koyu tonlar önerilir. Ayrıca, dudak köşelerini vurgulamak da dudakları daha çekici gösterir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Makyaj sanatı, yüz hatlarını vurgulayarak doğal güzelliği ön plana çıkarır. Doğru teknikler ve ürün seçimi ile her yüz tipinde mükemmel sonuçlar elde edilebilir. Unutmayın, makyaj sadece güzelliği artırmak değil, aynı zamanda özgüveni de yükseltir.</p>
+  `,
   },
 ];
 
@@ -1385,6 +2158,111 @@ export const cultureArticles = [
   <p>Bugün attığınız sürdürülebilir adımlar, yarınlarımızın temelini oluşturacak. Doğayla uyumlu, bilinçli ve sorumlu bir yaşam benimseyerek, hem kendimize hem de gelecek nesillere yaşanabilir bir dünya bırakabiliriz.</p>
 `,
   },
+  {
+    id: 32,
+    title: "Kültürel Mirasın İzinde: Şehirde Sürdürülebilir Yaşam",
+    category: "Kültür & Yaşam",
+    image: "/images/Kültür ve yaşam.jpg",
+    excerpt:
+      "Modern şehir hayatında geleneksel değerleri ve sürdürülebilir yaşamı bir arada yaşamanın yolları.",
+    readTime: "14 dk okuma",
+    views: "3.3k",
+    isHot: false,
+    date: "16 Nisan 2025",
+    author: "Mert Karaca",
+    tags: [
+      "kültürel miras",
+      "sürdürülebilirlik",
+      "şehir hayatı",
+      "yaşam tarzı",
+    ],
+    content: `
+  <p>Günümüz şehirlerinde hızla değişen yaşam tarzı, geleneksel değerlerin ve kültürel mirasın korunmasını her zamankinden daha önemli hale getiriyor. Sürdürülebilir yaşam, sadece çevreyle uyumlu olmak değil, aynı zamanda geçmişten gelen bilgi ve deneyimi de geleceğe taşımak anlamına geliyor.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Kültürel Miras Nedir?</h2>
+  <p>Kültürel miras, bir toplumun tarih boyunca oluşturduğu maddi ve manevi değerlerin bütünüdür. Mimari yapılar, el sanatları, geleneksel yemekler, müzik ve sözlü anlatımlar, bu mirasın temel taşlarını oluşturur. Şehirde sürdürülebilir yaşam ise, bu değerleri koruyarak modern hayatla bütünleştirmeyi hedefler.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Şehirde Geleneksel Yaşamın İzleri</h2>
+  <p>Modern şehirlerde, mahalle pazarları, yerel festivaller ve el işi atölyeleri gibi etkinlikler, kültürel mirasın yaşatılmasına katkı sağlar. Ayrıca, geleneksel mimariyle inşa edilen yapılar ve tarihi semtler, şehir kimliğinin korunmasında önemli rol oynar.</p>
+  <img src="/images/Kültür_Yaşam2.jpg" alt="Kültürel Miras" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sürdürülebilirlik ve Toplumsal Dayanışma</h2>
+  <p>Sürdürülebilir yaşam, toplumsal dayanışmayı da güçlendirir. Komşuluk ilişkileri, ortak bahçeler ve topluluk destekli tarım projeleri, şehirde hem çevreye duyarlı hem de sosyal açıdan güçlü bir yaşamın kapılarını aralar. Bu projeler, hem doğayla hem de kültürel köklerle bağ kurmayı sağlar.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Geleneksel Bilginin Modern Hayata Uyarlanması</h2>
+  <p>Atalık tohumların kullanımı, doğal boyalarla yapılan el sanatları ve geleneksel yemek tarifleri, sürdürülebilir şehir yaşamında önemli bir yer tutar. Bu uygulamalar, hem çevreye duyarlı hem de ekonomik açıdan avantajlıdır. Ayrıca, kültürel çeşitliliğin korunmasına da katkı sağlar.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Geleceğe Taşınan Değerler</h2>
+  <p>Kültürel mirasın korunması, sadece geçmişe değil, geleceğe de yatırım yapmaktır. Eğitim programları, müzeler ve dijital arşivler, bu değerlerin yeni nesillere aktarılmasında önemli rol oynar. Şehirde sürdürülebilir yaşam, kültürel mirasın canlı tutulduğu, yenilikçi ve kapsayıcı bir yaşam biçimi sunar.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Modern şehir hayatında sürdürülebilirlik ve kültürel miras, birbiriyle uyumlu şekilde var olabilir. Geleneksel değerleri yaşatarak, çevreye duyarlı ve toplumsal dayanışmayı güçlendiren bir yaşam tarzı benimsenebilir. Unutmayın, şehirde sürdürülebilir yaşam; geçmişin bilgeliğiyle geleceğin umutlarını birleştirir.</p>
+  `,
+  },
+  {
+    id: 38,
+    title: "Farkındalık Meditasyonu: Günlük Yaşamda İç Huzur",
+    category: "Kültür & Yaşam",
+    image: "/images/Kültür ve yaşam2.jpg",
+    excerpt:
+      "Modern yaşamın stresinden kurtulmak için farkındalık meditasyonu teknikleri ve günlük uygulamalar.",
+    readTime: "13 dk okuma",
+    views: "3.1k",
+    isHot: true,
+    date: "17 Nisan 2025",
+    author: "Can Yılmaz",
+    tags: ["meditasyon", "farkındalık", "stres yönetimi", "iç huzur"],
+    content: `
+  <p>Farkındalık meditasyonu, günümüzün hızlı ve stresli yaşamında iç huzuru bulmanın en etkili yollarından biridir. Bu pratik, anı yaşamayı, düşünceleri gözlemlemeyi ve zihinsel netlik kazanmayı hedefler. Düzenli uygulandığında, stresi azaltır, odaklanmayı artırır ve genel yaşam kalitesini yükseltir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Farkındalık Nedir?</h2>
+  <p>Farkındalık, şu anki deneyimi yargılamadan, açık bir şekilde gözlemleme yeteneğidir. Bu pratik, geçmişe takılıp kalmadan veya gelecekle ilgili endişelenmeden, anı tam olarak yaşamayı öğretir. Farkındalık, zihinsel karmaşayı azaltır ve daha net bir bakış açısı sağlar.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Temel Meditasyon Teknikleri</h2>
+  <p>Farkındalık meditasyonu için en temel teknik, nefes odaklı meditasyondur. Rahat bir pozisyonda oturarak, nefes alışverişini gözlemlemek ve zihin başka düşüncelere kaydığında nazikçe nefese geri dönmek önemlidir. Bu pratik, zihinsel odaklanmayı güçlendirir ve stresi azaltır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Günlük Yaşamda Farkındalık</h2>
+  <p>Farkındalık, sadece meditasyon sırasında değil, günlük aktivitelerde de uygulanabilir. Yemek yerken, yürürken veya konuşurken tam olarak o anı yaşamak, hayatın her anından daha fazla keyif almayı sağlar. Bu yaklaşım, otomatik pilot modundan çıkarak daha bilinçli bir yaşam sürmemize yardımcı olur.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Farkındalığın Faydaları</h2>
+  <p>Düzenli farkındalık pratiği, stres hormonlarını azaltır, bağışıklık sistemini güçlendirir ve uyku kalitesini artırır. Ayrıca, duygusal dengeyi sağlar, ilişkileri iyileştirir ve yaratıcılığı artırır. Bu pratik, hem fiziksel hem de zihinsel sağlığı destekler.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Farkındalık meditasyonu, modern yaşamın karmaşasından kurtulmak için güçlü bir araçtır. Düzenli uygulama ile iç huzuru bulabilir, stresi azaltabilir ve daha anlamlı bir yaşam sürebilirsiniz. Unutmayın, farkındalık bir yolculuktur ve her gün yeni bir adım atarak ilerleyebilirsiniz.</p>
+  `,
+  },
+  {
+    id: 39,
+    title: "Dijital Detoks: Teknolojiden Arınmanın Sanatı",
+    category: "Kültür & Yaşam",
+    image: "/images/Kültür.jpg",
+    excerpt:
+      "Sürekli bağlantı halinde olmanın yarattığı stresi azaltmak için dijital detoks teknikleri.",
+    readTime: "12 dk okuma",
+    views: "2.7k",
+    isHot: false,
+    date: "17 Nisan 2025",
+    author: "Mert Karaca",
+    tags: ["dijital detoks", "teknoloji", "farkındalık", "denge"],
+    content: `
+  <p>Günümüzde teknoloji, hayatımızın vazgeçilmez bir parçası haline geldi. Akıllı telefonlar, tabletler, bilgisayarlar ve sosyal medya platformları, günlük yaşamımızın her alanında yer alıyor. Ancak bu sürekli bağlantı halinde olma durumu, beklenmedik sonuçlar doğurabiliyor. Dijital detoks, teknolojiden bilinçli olarak uzaklaşmayı ve zihinsel/bedensel dengeyi yeniden kurmayı amaçlar.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Dijital Detoks Nedir?</h2>
+  <p>Dijital detoks, teknolojik cihazlardan belirli sürelerle uzaklaşma pratiğidir. Bu süre, birkaç saatten birkaç güne kadar değişebilir. Amaç, teknoloji kullanımını sınırlayarak zihin ve beden sağlığını korumak, dijital bağımlılığı azaltmak ve gerçek dünya ile olan bağları güçlendirmektir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Teknolojinin Olumsuz Etkileri</h2>
+  <p>Sürekli ekran başında kalmak, göz yorgunluğu, uyku problemleri, dikkat dağınıklığı ve sosyal izolasyon gibi sorunlara yol açabilir. Ayrıca, sosyal medyada geçirilen fazla zaman, karşılaştırma yapma ve yetersizlik hissi yaratabilir. Dijital detoks, bu olumsuz etkileri minimize etmek için önemli bir araçtır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Dijital Detoks Teknikleri</h2>
+  <p>Dijital detoks için belirli zaman dilimlerinde ekranlardan uzak durmak, bildirimleri kapatmak ve doğada vakit geçirmek önerilir. Ayrıca, teknolojisiz aktivitelere yönelmek, kitap okumak, spor yapmak ve yüz yüze sosyal etkileşimleri artırmak da faydalıdır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Dijital Detoksun Faydaları</h2>
+  <p>Dijital detoks, stresi azaltır, uyku kalitesini artırır, odaklanmayı güçlendirir ve sosyal ilişkileri iyileştirir. Ayrıca, yaratıcılığı artırır ve kişisel gelişim için daha fazla zaman sağlar. Bu pratik, hem fiziksel hem de zihinsel sağlığı destekler.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Dijital detoks, modern yaşamın teknoloji bağımlılığından kurtulmak için etkili bir yöntemdir. Düzenli uygulama ile daha dengeli, sağlıklı ve anlamlı bir yaşam sürebilirsiniz. Unutmayın, teknoloji bir araçtır ve onu kontrol altında tutmak önemlidir.</p>
+  `,
+  },
 ];
 
 // Horoscope data
@@ -1664,6 +2542,106 @@ export const horoscopeArticles = [
   <p>Ritüel bittikten sonra enerji yüksekliğini korumak için düzenli olarak meditasyon yapmak, niyetlerinizi gözden geçirmek ve pozitif ortamlar yaratmak önemlidir. Aynı zamanda negatif enerjilerden arınmak için adaçayı tütsülemek veya enerji temizleyici kristaller kullanmak faydalıdır. Yeni Ay döngüsü tamamlanana kadar, yani yaklaşık 14 gün boyunca enerjinizdeki yükselişi hissedecek ve ilerleme kaydedeceksiniz.</p>
 
   <p>Sonuç olarak, Yeni Ay ritüelleri ve manifestasyon çalışmaları, kişisel gelişim yolculuğunuzda size ışık tutan güçlü araçlardır. Düzenli uygulandığında, hayatınızda derin ve kalıcı değişikliklere kapı açar. Unutmayın, evren sizinle iş birliği yapmaya hazırdır; yeter ki niyetlerinizi net ve samimi bir şekilde ortaya koyun.</p>
+  `,
+  },
+  {
+    id: 33,
+    title: "Astrolojide Karmik Döngüler: Geçmişten Geleceğe Ruhsal Yolculuk",
+    category: "Burçlar",
+    image: "/images/Burçlar4.jpg",
+    excerpt:
+      "Karmik astrolojiyle burçların ruhsal dersleri, tekrar eden temalar ve kişisel dönüşüm yolları.",
+    readTime: "13 dk okuma",
+    views: "2.6k",
+    isHot: true,
+    date: "16 Nisan 2025",
+    author: "Zeynep Arslan",
+    tags: ["astroloji", "karma", "ruhsal gelişim", "burçlar"],
+    content: `
+  <p>Astroloji, sadece karakter analizi ve günlük burç yorumlarından ibaret değildir. Karmik astroloji, ruhun geçmiş yaşamlarından getirdiği dersleri, tekrar eden temaları ve bu hayatta üstlenmesi gereken görevleri anlamamıza yardımcı olur. Her burç, kendine özgü bir karmik yolculuk ve ruhsal gelişim fırsatı sunar.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Karma Nedir?</h2>
+  <p>Karma, evrensel neden-sonuç yasasıdır. Geçmişte atılan her adım, yapılan her seçim, bugünkü yaşamımızı şekillendirir. Astrolojide, doğum haritasındaki ay düğümleri (kuzey ve güney ay düğümü), ruhun karmik yolculuğunu ve bu hayatta öğrenmesi gereken dersleri gösterir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Burçlara Göre Karmik Temalar</h2>
+  <p>Her burç, farklı bir karmik tema ve ruhsal dersle ilişkilidir. Örneğin, Koç burcu cesaret ve bireysellik, Terazi burcu ise denge ve ilişkiler konusunda sınanır. Akrep burcu dönüşüm ve bırakma, Balık burcu ise koşulsuz sevgi ve teslimiyet temalarını deneyimler.</p>
+  <img src="/images/Burçlar3_2.jpg" alt="Karmik Astroloji" />
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Ay Düğümleri ve Ruhsal Yolculuk</h2>
+  <p>Kuzey ay düğümü, bu hayatta ilerlememiz gereken yönü, güney ay düğümü ise geçmişten getirdiğimiz alışkanlıkları ve konfor alanını temsil eder. Doğum haritasında bu noktaların bulunduğu burç ve evler, ruhsal gelişim yolculuğunda anahtar rol oynar.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Karmik Döngüleri Kırmak</h2>
+  <p>Karmik döngüleri kırmak için, farkındalık geliştirmek ve tekrar eden kalıpları bilinçli olarak dönüştürmek gerekir. Meditasyon, regresyon çalışmaları ve astrolojik danışmanlık, bu süreçte rehberlik edebilir. Ayrıca, affetmek ve geçmişle barışmak, ruhsal özgürlüğün kapılarını aralar.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Karmik astroloji, geçmişten gelen yükleri bırakıp, ruhsal olarak daha özgür ve bilinçli bir yaşam sürmemize yardımcı olur. Her burç, kendine özgü bir ruhsal yolculuk sunar ve bu yolculukta atılan her adım, geleceğin şekillenmesinde önemli rol oynar. Unutmayın, astrolojiyle kendi karmik döngülerinizi keşfetmek, hayatınıza yeni bir anlam ve derinlik kazandırabilir.</p>
+  `,
+  },
+  {
+    id: 40,
+    title: "Ay Burçları: Duygusal Dünyamızın Anahtarı",
+    category: "Burçlar",
+    image: "/images/AyBurçları.jpg",
+    excerpt:
+      "Ay burçlarının kişiliğimiz ve duygusal dünyamız üzerindeki etkileri ve gizli yönlerimiz.",
+    readTime: "11 dk okuma",
+    views: "2.4k",
+    isHot: true,
+    date: "17 Nisan 2025",
+    author: "Selin Yıldız",
+    tags: ["ay burçları", "duygular", "kişilik", "astroloji"],
+    content: `
+  <p>Astrolojide Ay, duygusal dünyamızı, içsel benliğimizi ve bilinçaltımızı temsil eder. Ay burcu, güneş burcundan farklı olarak, gerçek benliğimizi ve duygusal tepkilerimizi gösterir. Bu nedenle, Ay burcunu bilmek, kendimizi daha iyi anlamamıza yardımcı olur.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Ay Burcu Nedir?</h2>
+  <p>Ay burcu, doğum anında Ay'ın bulunduğu burçtur. Güneş burcu günlük kişiliğimizi gösterirken, Ay burcu duygusal dünyamızı ve içsel ihtiyaçlarımızı yansıtır. Ay burcu, nasıl hissettiğimizi, neye ihtiyaç duyduğumuzu ve güvende hissetmek için neye ihtiyaç duyduğumuzu gösterir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Ay Burçlarının Özellikleri</h2>
+  <p>Her Ay burcu, farklı duygusal özellikler ve ihtiyaçlar gösterir. Örneğin, Ay Koç olanlar bağımsızlık ve özgürlük arar, Ay Yengeç olanlar güvenlik ve korunma ihtiyacı duyar. Ay Terazi olanlar uyum ve denge ararken, Ay Akrep olanlar derinlik ve yoğunluk ister.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Ay Burcu ve İlişkiler</h2>
+  <p>Ay burcu, ilişkilerde nasıl davrandığımızı ve ne tür partnerler aradığımızı gösterir. Duygusal uyumluluk, genellikle Ay burçları arasındaki uyumla belirlenir. Aynı elementteki Ay burçları genellikle daha uyumlu olur.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Ay Burcu ve Kariyer</h2>
+  <p>Ay burcu, hangi iş alanlarında daha mutlu olacağımızı da gösterir. Duygusal ihtiyaçlarımızı karşılayan meslekler, daha tatmin edici bir kariyer yaşamamızı sağlar. Örneğin, Ay Yengeç olanlar bakım ve koruma gerektiren işlerde başarılı olur.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Ay burcu, duygusal dünyamızın anahtarıdır ve kendimizi daha iyi anlamamıza yardımcı olur. Ay burcunu bilmek, duygusal ihtiyaçlarımızı karşılamak ve daha dengeli bir yaşam sürmek için önemlidir. Unutmayın, hem güneş hem de ay burcunuzu bilmek, kişiliğinizin tam resmini çizer.</p>
+  `,
+  },
+  {
+    id: 41,
+    title: "Retrograd Gezegenler: Hayatımızdaki Tekrar Eden Temalar",
+    category: "Burçlar",
+    image: "/images/Merkür Retrograd Stil Rehberi.jpg",
+    excerpt:
+      "Retrograd gezegenlerin etkileri, hayatımızdaki tekrar eden dersler ve bu dönemlerde yapılması gerekenler.",
+    readTime: "12 dk okuma",
+    views: "2.1k",
+    isHot: false,
+    date: "17 Nisan 2025",
+    author: "Zeynep Arslan",
+    tags: ["retrograd", "gezegenler", "astroloji", "tekrar eden temalar"],
+    content: `
+  <p>Retrograd gezegenler, astrolojide önemli bir konudur ve hayatımızda tekrar eden temaları, geçmişten gelen dersleri ve yeniden değerlendirme fırsatlarını gösterir. Bir gezegen retrograd olduğunda, o gezegenin temsil ettiği alanlarda geriye dönük bir enerji hakim olur.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Retrograd Nedir?</h2>
+  <p>Retrograd, bir gezegenin Dünya'dan bakıldığında geriye doğru hareket ediyormuş gibi görünmesidir. Bu durum, gezegenin enerjisinin içe dönük ve yansıtıcı hale gelmesine neden olur. Retrograd dönemler, geçmişi gözden geçirmek, hataları düzeltmek ve yeni bir bakış açısı geliştirmek için idealdir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Merkür Retrogradı</h2>
+  <p>Merkür retrogradı, en çok bilinen retrograd dönemdir. İletişim, seyahat, teknoloji ve ticaret alanlarında karışıklıklara neden olabilir. Bu dönemde, önemli kararlar almaktan kaçınmak, iletişimde dikkatli olmak ve geçmiş projeleri yeniden değerlendirmek önerilir.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Venüs Retrogradı</h2>
+  <p>Venüs retrogradı, aşk, ilişkiler ve değerler konusunda yeniden değerlendirme yapmamızı sağlar. Bu dönemde, eski aşklar gündeme gelebilir, ilişkilerde sorunlar yaşanabilir. Ancak bu, ilişkilerimizi daha derinlemesine anlamak için bir fırsattır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Mars Retrogradı</h2>
+  <p>Mars retrogradı, enerji ve motivasyon konusunda yavaşlama yaratır. Bu dönemde, agresif davranışlardan kaçınmak, sabırlı olmak ve enerjiyi içe yönlendirmek önemlidir. Geçmiş projeleri tamamlamak için ideal bir zamandır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Retrograd Dönemlerde Yapılması Gerekenler</h2>
+  <p>Retrograd dönemlerde, yeni başlangıçlar yapmaktan kaçınmak, geçmişi gözden geçirmek ve içe dönük aktivitelere yönelmek önerilir. Meditasyon, yazı yazma ve geçmiş projeleri tamamlama, bu dönemlerde faydalıdır.</p>
+  
+  <h2 class="text-3xl font-light mb-6 mt-12">Sonuç</h2>
+  <p>Retrograd gezegenler, hayatımızda tekrar eden temaları ve geçmişten gelen dersleri gösterir. Bu dönemleri doğru değerlendirmek, kişisel gelişim ve ruhsal ilerleme için önemli fırsatlar sunar. Unutmayın, retrograd dönemler kriz değil, yenilenme ve dönüşüm fırsatlarıdır.</p>
   `,
   },
 ];

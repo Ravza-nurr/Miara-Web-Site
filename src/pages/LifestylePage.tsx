@@ -2,7 +2,6 @@ import PageHeader from "@/components/PageHeader";
 import ArticleGrid from "@/components/ArticleGrid";
 import CategorySidebar from "@/components/CategorySidebar";
 import CategoryNews from "@/components/CategoryNews";
-import Newsletter from "@/components/Newsletter";
 import { cultureArticles, latestNews } from "@/lib/data";
 
 export default function LifestylePage() {
@@ -48,8 +47,6 @@ export default function LifestylePage() {
         categorySlug="lifestyle"
         news={lifestyleNews}
       />
-
-      <Newsletter />
     </div>
   );
 }

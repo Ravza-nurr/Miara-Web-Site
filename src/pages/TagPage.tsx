@@ -2,7 +2,6 @@
 
 import { useParams } from "react-router-dom";
 import ArticleGrid from "@/components/ArticleGrid";
-import Newsletter from "@/components/Newsletter";
 import {
   fashionArticles,
   beautyArticles,
@@ -52,8 +51,6 @@ export default function TagPage() {
           </div>
         )}
       </div>
-
-      <Newsletter />
     </div>
   );
 }

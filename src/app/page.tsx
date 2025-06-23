@@ -1,9 +1,10 @@
+"use client";
+
 import Header from "@/components/header";
 import Hero from "@/components/Hero";
 import FeaturedArticles from "@/components/FeaturedArticles";
 import TrendingTopics from "@/components/TrendingTopics";
 import LatestNews from "@/components/LatestNews";
-import Newsletter from "@/components/Newsletter";
 
 export default function HomePage() {
   return (
@@ -22,7 +23,6 @@ export default function HomePage() {
       </section>
 
       <LatestNews />
-      <Newsletter />
     </main>
   );
 }

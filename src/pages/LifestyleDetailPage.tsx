@@ -1,12 +1,11 @@
 import { useParams, useSearchParams } from "react-router-dom";
 import ArticleDetail from "@/components/ArticleDetail";
-import Newsletter from "@/components/Newsletter";
 import { getArticleById } from "@/lib/data";
 
 export default function LifestyleDetailPage() {
   const { id } = useParams();
   const [searchParams] = useSearchParams();
-  
+
   const articleId = Number(id);
   const article = getArticleById(articleId, "kultur-yasam");
   const referrer = searchParams.get("from") === "home" ? "home" : "category";
@@ -28,8 +27,11 @@ export default function LifestyleDetailPage() {
 
   return (
     <div className="min-h-screen bg-[var(--color-bg-primary)]">
-      <ArticleDetail article={article} categorySlug="lifestyle" referrer={referrer} />
-      <Newsletter />
+      <ArticleDetail
+        article={article}
+        categorySlug="lifestyle"
+        referrer={referrer}
+      />
     </div>
   );
-} 
+}

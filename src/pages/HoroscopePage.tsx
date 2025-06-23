@@ -2,7 +2,6 @@ import PageHeader from "@/components/PageHeader";
 import ArticleGrid from "@/components/ArticleGrid";
 import CategorySidebar from "@/components/CategorySidebar";
 import CategoryNews from "@/components/CategoryNews";
-import Newsletter from "@/components/Newsletter";
 import { horoscopeArticles } from "@/lib/data";
 
 export default function HoroscopePage() {
@@ -31,9 +30,11 @@ export default function HoroscopePage() {
           </div>
         </div>
       </div>
-      <CategoryNews category="Burçlar" title="Son Burç Haberleri" categorySlug="horoscope" />
-
-      <Newsletter />
+      <CategoryNews
+        category="Burçlar"
+        title="Son Burç Haberleri"
+        categorySlug="horoscope"
+      />
     </div>
   );
-} 
+}
