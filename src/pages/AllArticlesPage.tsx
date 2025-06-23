@@ -9,13 +9,21 @@ import {
 
 export default function AllArticlesPage() {
   // Tüm kategorilerden tüm makaleleri birleştir
-  const allArticles = [
+  const allArticlesRaw = [
     ...featuredArticles,
     ...fashionArticles,
     ...beautyArticles,
     ...horoscopeArticles,
     ...cultureArticles,
   ];
+  // id ve kategoriye göre benzersizleştir
+  const allArticles = allArticlesRaw.filter(
+    (article, index, self) =>
+      index ===
+      self.findIndex(
+        (a) => a.id === article.id && a.category === article.category
+      )
+  );
 
   return (
     <div className="min-h-screen bg-[var(--color-bg-primary)]">

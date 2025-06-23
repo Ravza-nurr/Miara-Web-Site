@@ -506,8 +506,7 @@ export const latestNews = [
     title: "Burçlara Göre Bahar Temizliği:Yenilenmenin Sırları",
     category: "Burçlar",
     image: "/images/Burçlara Göre Bahar Temizliği_ Kapak.jpg",
-    excerpt:
-      "Her burcun kendine özgü bahar temizliği ritüelleri ?",
+    excerpt: "Her burcun kendine özgü bahar temizliği ritüelleri ?",
     readTime: "6 dk okuma",
     views: "1.8k",
     author: "Melis Kaya",
@@ -799,8 +798,7 @@ export const latestNews = [
     title: "Dijital Detoks Hareketi: Teknolojiden Uzaklaşma Trendi",
     category: "Yaşam",
     image: "/images/Dijital Detoks_ Teknolojiden Arınma.jpg",
-    excerpt:
-      "Sürekli ekran başında kalmaktan bunalan insanlar.",
+    excerpt: "Sürekli ekran başında kalmaktan bunalan insanlar.",
     readTime: "8 dk okuma",
     views: "2.6k",
     isHot: false,
@@ -859,8 +857,7 @@ export const latestNews = [
     title: "Burç Uyumluluğu: İlişkilerde Astroloji",
     category: "Burçlar",
     image: "/images/Burçlar6.jpg",
-    excerpt:
-      "İlişkilerinde burç uyumluluğuna daha fazla önem veriyor.",
+    excerpt: "İlişkilerinde burç uyumluluğuna daha fazla önem veriyor.",
     readTime: "8 dk okuma",
     views: "2.1k",
     isHot: false,
@@ -986,8 +983,7 @@ export const latestNews = [
     title: "'No Makeup' Trendi Yükseliyor",
     category: "Güzellik",
     image: "/images/Güzellik7.jpg",
-    excerpt:
-      "Doğal görünüm öne çıkıyor, 'no makeup' trendi yaygınlaşıyor.",
+    excerpt: "Doğal görünüm öne çıkıyor, 'no makeup' trendi yaygınlaşıyor.",
     readTime: "8 dk okuma",
     views: "2.9k",
     isHot: false,
@@ -1046,8 +1042,7 @@ export const latestNews = [
     title: "Uzaktan Çalışma ile Seyahat Edenler Artıyor",
     category: "Yaşam",
     image: "/images/Yaşam2.jpg",
-    excerpt:
-      "Uzaktan çalışanlar, dünyayı gezerek yaşamaya başladı.",
+    excerpt: "Uzaktan çalışanlar, dünyayı gezerek yaşamaya başladı.",
     readTime: "10 dk okuma",
     views: "2.7k",
     isHot: false,
@@ -1106,8 +1101,7 @@ export const latestNews = [
     title: "Burçlar ve Meslek : Astrolojik Kariyer",
     category: "Burçlar",
     image: "/images/Burçlar8.jpg",
-    excerpt:
-      "Burçların meslek uyumluluğu araştırılıyor.",
+    excerpt: "Burçların meslek uyumluluğu araştırılıyor.",
     readTime: "8 dk okuma",
     views: "2.2k",
     isHot: false,

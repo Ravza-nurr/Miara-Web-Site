@@ -1,6 +1,6 @@
 # Miara
 
-Miara, moda, güzellik, kültür & yaşam ve astroloji alanlarında güncel makaleler, rehberler ve trend analizleri sunan modern bir dijital içerik platformudur. Kullanıcılar, özenle seçilmiş içeriklerle stilini ve yaşam tarzını yeniden tanımlayabilir, ilham verici hikâyelerle güncel kalabilir.
+Miara, moda, güzellik, kültür & yaşam ve burç alanlarında güncel makaleler, rehberler ve trend analizleri sunan modern bir dijital içerik platformudur. Kullanıcılar, özenle seçilmiş içeriklerle stilini ve yaşam tarzını yeniden tanımlayabilir, ilham verici hikâyelerle güncel kalabilir.
 
 ## Proje Hakkında
 
